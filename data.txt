@@ -1,0 +1,3000 @@
+Particle to Particle collision count: 8002      Elapsed time: 3.594264
+Particle to Particle collision count: 8003      Elapsed time: 3.594431
+Particle to Particle collision count: 8004      Elapsed time: 3.594439
+Particle to Particle collision count: 8005      Elapsed time: 3.594737
+Particle to Particle collision count: 8006      Elapsed time: 3.595261
+Particle to Particle collision count: 8007      Elapsed time: 3.595305
+Particle to Particle collision count: 8008      Elapsed time: 3.596556
+Particle to Particle collision count: 8009      Elapsed time: 3.596581
+Particle to Particle collision count: 8010      Elapsed time: 3.596829
+Particle to Particle collision count: 8011      Elapsed time: 3.597285
+Particle to Particle collision count: 8012      Elapsed time: 3.597425
+Particle to Particle collision count: 8013      Elapsed time: 3.597808
+Particle to Particle collision count: 8014      Elapsed time: 3.598074
+Particle to Particle collision count: 8015      Elapsed time: 3.598521
+Particle to Particle collision count: 8016      Elapsed time: 3.599026
+Particle to Particle collision count: 8017      Elapsed time: 3.599326
+Particle to Particle collision count: 8018      Elapsed time: 3.599558
+Particle to Particle collision count: 8019      Elapsed time: 3.599581
+Particle to Particle collision count: 8020      Elapsed time: 3.599666
+Particle to Particle collision count: 8021      Elapsed time: 3.600231
+Particle to Particle collision count: 8022      Elapsed time: 3.600619
+Particle to Particle collision count: 8023      Elapsed time: 3.601194
+Particle to Particle collision count: 8024      Elapsed time: 3.601406
+Particle to Particle collision count: 8025      Elapsed time: 3.601692
+Particle to Particle collision count: 8026      Elapsed time: 3.601950
+Particle to Particle collision count: 8027      Elapsed time: 3.602901
+Particle to Particle collision count: 8028      Elapsed time: 3.603308
+Particle to Particle collision count: 8029      Elapsed time: 3.603921
+Particle to Particle collision count: 8030      Elapsed time: 3.603935
+Particle to Particle collision count: 8031      Elapsed time: 3.605215
+Particle to Particle collision count: 8032      Elapsed time: 3.605677
+Particle to Particle collision count: 8033      Elapsed time: 3.606001
+Particle to Particle collision count: 8034      Elapsed time: 3.606302
+Particle to Particle collision count: 8035      Elapsed time: 3.606369
+Particle to Particle collision count: 8036      Elapsed time: 3.606421
+Particle to Particle collision count: 8037      Elapsed time: 3.606431
+Particle to Particle collision count: 8038      Elapsed time: 3.606460
+Particle to Particle collision count: 8039      Elapsed time: 3.606992
+Particle to Particle collision count: 8040      Elapsed time: 3.607315
+Particle to Particle collision count: 8041      Elapsed time: 3.607427
+Particle to Particle collision count: 8042      Elapsed time: 3.607602
+Particle to Particle collision count: 8043      Elapsed time: 3.607951
+Particle to Particle collision count: 8044      Elapsed time: 3.608392
+Particle to Particle collision count: 8045      Elapsed time: 3.608692
+Particle to Particle collision count: 8046      Elapsed time: 3.609149
+Particle to Particle collision count: 8047      Elapsed time: 3.609893
+Particle to Particle collision count: 8048      Elapsed time: 3.610157
+Particle to Particle collision count: 8049      Elapsed time: 3.610483
+Particle to Particle collision count: 8050      Elapsed time: 3.611018
+Particle to Particle collision count: 8051      Elapsed time: 3.611770
+Particle to Particle collision count: 8052      Elapsed time: 3.612085
+Particle to Particle collision count: 8053      Elapsed time: 3.612198
+Particle to Particle collision count: 8054      Elapsed time: 3.612924
+Particle to Particle collision count: 8055      Elapsed time: 3.613124
+Particle to Particle collision count: 8056      Elapsed time: 3.613145
+Particle to Particle collision count: 8057      Elapsed time: 3.613271
+Particle to Particle collision count: 8058      Elapsed time: 3.613418
+Particle to Particle collision count: 8059      Elapsed time: 3.613479
+Particle to Particle collision count: 8060      Elapsed time: 3.614126
+Particle to Particle collision count: 8061      Elapsed time: 3.614294
+Particle to Particle collision count: 8062      Elapsed time: 3.615262
+Particle to Particle collision count: 8063      Elapsed time: 3.615693
+Particle to Particle collision count: 8064      Elapsed time: 3.615792
+Particle to Particle collision count: 8065      Elapsed time: 3.615972
+Particle to Particle collision count: 8066      Elapsed time: 3.616297
+Particle to Particle collision count: 8067      Elapsed time: 3.616809
+Particle to Particle collision count: 8068      Elapsed time: 3.617337
+Particle to Particle collision count: 8069      Elapsed time: 3.617381
+Particle to Particle collision count: 8070      Elapsed time: 3.617567
+Particle to Particle collision count: 8071      Elapsed time: 3.617949
+Particle to Particle collision count: 8072      Elapsed time: 3.618197
+Particle to Particle collision count: 8073      Elapsed time: 3.618520
+Particle to Particle collision count: 8074      Elapsed time: 3.618537
+Particle to Particle collision count: 8075      Elapsed time: 3.618574
+Particle to Particle collision count: 8076      Elapsed time: 3.619861
+Particle to Particle collision count: 8077      Elapsed time: 3.620195
+Particle to Particle collision count: 8078      Elapsed time: 3.620412
+Particle to Particle collision count: 8079      Elapsed time: 3.620912
+Particle to Particle collision count: 8080      Elapsed time: 3.621583
+Particle to Particle collision count: 8081      Elapsed time: 3.622208
+Particle to Particle collision count: 8082      Elapsed time: 3.623480
+Particle to Particle collision count: 8083      Elapsed time: 3.623869
+Particle to Particle collision count: 8084      Elapsed time: 3.624284
+Particle to Particle collision count: 8085      Elapsed time: 3.625021
+Particle to Particle collision count: 8086      Elapsed time: 3.625087
+Particle to Particle collision count: 8087      Elapsed time: 3.625210
+Particle to Particle collision count: 8088      Elapsed time: 3.625432
+Particle to Particle collision count: 8089      Elapsed time: 3.625844
+Particle to Particle collision count: 8090      Elapsed time: 3.626954
+Particle to Particle collision count: 8091      Elapsed time: 3.627210
+Particle to Particle collision count: 8092      Elapsed time: 3.628902
+Particle to Particle collision count: 8093      Elapsed time: 3.629167
+Particle to Particle collision count: 8094      Elapsed time: 3.629510
+Particle to Particle collision count: 8095      Elapsed time: 3.629929
+Particle to Particle collision count: 8096      Elapsed time: 3.630009
+Particle to Particle collision count: 8097      Elapsed time: 3.630826
+Particle to Particle collision count: 8098      Elapsed time: 3.630841
+Particle to Particle collision count: 8099      Elapsed time: 3.631333
+Particle to Particle collision count: 8100      Elapsed time: 3.632379
+Particle to Particle collision count: 8101      Elapsed time: 3.632813
+Particle to Particle collision count: 8102      Elapsed time: 3.633628
+Particle to Particle collision count: 8103      Elapsed time: 3.633685
+Particle to Particle collision count: 8104      Elapsed time: 3.634465
+Particle to Particle collision count: 8105      Elapsed time: 3.634681
+Particle to Particle collision count: 8106      Elapsed time: 3.635082
+Particle to Particle collision count: 8107      Elapsed time: 3.635511
+Particle to Particle collision count: 8108      Elapsed time: 3.636592
+Particle to Particle collision count: 8109      Elapsed time: 3.636851
+Particle to Particle collision count: 8110      Elapsed time: 3.638778
+Particle to Particle collision count: 8111      Elapsed time: 3.639128
+Particle to Particle collision count: 8112      Elapsed time: 3.639793
+Particle to Particle collision count: 8113      Elapsed time: 3.639855
+Particle to Particle collision count: 8114      Elapsed time: 3.639858
+Particle to Particle collision count: 8115      Elapsed time: 3.640206
+Particle to Particle collision count: 8116      Elapsed time: 3.640667
+Particle to Particle collision count: 8117      Elapsed time: 3.640866
+Particle to Particle collision count: 8118      Elapsed time: 3.641404
+Particle to Particle collision count: 8119      Elapsed time: 3.641773
+Particle to Particle collision count: 8120      Elapsed time: 3.642109
+Particle to Particle collision count: 8121      Elapsed time: 3.642594
+Particle to Particle collision count: 8122      Elapsed time: 3.642636
+Particle to Particle collision count: 8123      Elapsed time: 3.643904
+Particle to Particle collision count: 8124      Elapsed time: 3.644938
+Particle to Particle collision count: 8125      Elapsed time: 3.645528
+Particle to Particle collision count: 8126      Elapsed time: 3.645850
+Particle to Particle collision count: 8127      Elapsed time: 3.646223
+Particle to Particle collision count: 8128      Elapsed time: 3.646258
+Particle to Particle collision count: 8129      Elapsed time: 3.646518
+Particle to Particle collision count: 8130      Elapsed time: 3.646623
+Particle to Particle collision count: 8131      Elapsed time: 3.646755
+Particle to Particle collision count: 8132      Elapsed time: 3.647677
+Particle to Particle collision count: 8133      Elapsed time: 3.648315
+Particle to Particle collision count: 8134      Elapsed time: 3.648486
+Particle to Particle collision count: 8135      Elapsed time: 3.648746
+Particle to Particle collision count: 8136      Elapsed time: 3.648857
+Particle to Particle collision count: 8137      Elapsed time: 3.649652
+Particle to Particle collision count: 8138      Elapsed time: 3.649801
+Particle to Particle collision count: 8139      Elapsed time: 3.650706
+Particle to Particle collision count: 8140      Elapsed time: 3.651639
+Particle to Particle collision count: 8141      Elapsed time: 3.651872
+Particle to Particle collision count: 8142      Elapsed time: 3.651998
+Particle to Particle collision count: 8143      Elapsed time: 3.652103
+Particle to Particle collision count: 8144      Elapsed time: 3.652236
+Particle to Particle collision count: 8145      Elapsed time: 3.652405
+Particle to Particle collision count: 8146      Elapsed time: 3.652540
+Particle to Particle collision count: 8147      Elapsed time: 3.653029
+Particle to Particle collision count: 8148      Elapsed time: 3.653194
+Particle to Particle collision count: 8149      Elapsed time: 3.653787
+Particle to Particle collision count: 8150      Elapsed time: 3.654199
+Particle to Particle collision count: 8151      Elapsed time: 3.654981
+Particle to Particle collision count: 8152      Elapsed time: 3.655363
+Particle to Particle collision count: 8153      Elapsed time: 3.655414
+Particle to Particle collision count: 8154      Elapsed time: 3.655847
+Particle to Particle collision count: 8155      Elapsed time: 3.655990
+Particle to Particle collision count: 8156      Elapsed time: 3.656779
+Particle to Particle collision count: 8157      Elapsed time: 3.657333
+Particle to Particle collision count: 8158      Elapsed time: 3.657910
+Particle to Particle collision count: 8159      Elapsed time: 3.658792
+Particle to Particle collision count: 8160      Elapsed time: 3.658884
+Particle to Particle collision count: 8161      Elapsed time: 3.659062
+Particle to Particle collision count: 8162      Elapsed time: 3.659318
+Particle to Particle collision count: 8163      Elapsed time: 3.659385
+Particle to Particle collision count: 8164      Elapsed time: 3.659745
+Particle to Particle collision count: 8165      Elapsed time: 3.659756
+Particle to Particle collision count: 8166      Elapsed time: 3.660393
+Particle to Particle collision count: 8167      Elapsed time: 3.661335
+Particle to Particle collision count: 8168      Elapsed time: 3.661607
+Particle to Particle collision count: 8169      Elapsed time: 3.661756
+Particle to Particle collision count: 8170      Elapsed time: 3.662916
+Particle to Particle collision count: 8171      Elapsed time: 3.663622
+Particle to Particle collision count: 8172      Elapsed time: 3.663886
+Particle to Particle collision count: 8173      Elapsed time: 3.663901
+Particle to Particle collision count: 8174      Elapsed time: 3.665039
+Particle to Particle collision count: 8175      Elapsed time: 3.665987
+Particle to Particle collision count: 8176      Elapsed time: 3.666353
+Particle to Particle collision count: 8177      Elapsed time: 3.666545
+Particle to Particle collision count: 8178      Elapsed time: 3.666750
+Particle to Particle collision count: 8179      Elapsed time: 3.666867
+Particle to Particle collision count: 8180      Elapsed time: 3.667075
+Particle to Particle collision count: 8181      Elapsed time: 3.667544
+Particle to Particle collision count: 8182      Elapsed time: 3.667724
+Particle to Particle collision count: 8183      Elapsed time: 3.668445
+Particle to Particle collision count: 8184      Elapsed time: 3.669520
+Particle to Particle collision count: 8185      Elapsed time: 3.669549
+Particle to Particle collision count: 8186      Elapsed time: 3.669860
+Particle to Particle collision count: 8187      Elapsed time: 3.670183
+Particle to Particle collision count: 8188      Elapsed time: 3.670241
+Particle to Particle collision count: 8189      Elapsed time: 3.670252
+Particle to Particle collision count: 8190      Elapsed time: 3.670612
+Particle to Particle collision count: 8191      Elapsed time: 3.670913
+Particle to Particle collision count: 8192      Elapsed time: 3.671137
+Particle to Particle collision count: 8193      Elapsed time: 3.671381
+Particle to Particle collision count: 8194      Elapsed time: 3.671772
+Particle to Particle collision count: 8195      Elapsed time: 3.673245
+Particle to Particle collision count: 8196      Elapsed time: 3.673552
+Particle to Particle collision count: 8197      Elapsed time: 3.673731
+Particle to Particle collision count: 8198      Elapsed time: 3.674633
+Particle to Particle collision count: 8199      Elapsed time: 3.675594
+Particle to Particle collision count: 8200      Elapsed time: 3.676337
+Particle to Particle collision count: 8201      Elapsed time: 3.676427
+Particle to Particle collision count: 8202      Elapsed time: 3.676476
+Particle to Particle collision count: 8203      Elapsed time: 3.676500
+Particle to Particle collision count: 8204      Elapsed time: 3.676960
+Particle to Particle collision count: 8205      Elapsed time: 3.677408
+Particle to Particle collision count: 8206      Elapsed time: 3.678120
+Particle to Particle collision count: 8207      Elapsed time: 3.678137
+Particle to Particle collision count: 8208      Elapsed time: 3.678331
+Particle to Particle collision count: 8209      Elapsed time: 3.678654
+Particle to Particle collision count: 8210      Elapsed time: 3.678982
+Particle to Particle collision count: 8211      Elapsed time: 3.679531
+Particle to Particle collision count: 8212      Elapsed time: 3.680133
+Particle to Particle collision count: 8213      Elapsed time: 3.680136
+Particle to Particle collision count: 8214      Elapsed time: 3.681739
+Particle to Particle collision count: 8215      Elapsed time: 3.683498
+Particle to Particle collision count: 8216      Elapsed time: 3.683885
+Particle to Particle collision count: 8217      Elapsed time: 3.684889
+Particle to Particle collision count: 8218      Elapsed time: 3.685583
+Particle to Particle collision count: 8219      Elapsed time: 3.686115
+Particle to Particle collision count: 8220      Elapsed time: 3.686152
+Particle to Particle collision count: 8221      Elapsed time: 3.686411
+Particle to Particle collision count: 8222      Elapsed time: 3.686503
+Particle to Particle collision count: 8223      Elapsed time: 3.686698
+Particle to Particle collision count: 8224      Elapsed time: 3.687174
+Particle to Particle collision count: 8225      Elapsed time: 3.687267
+Particle to Particle collision count: 8226      Elapsed time: 3.687327
+Particle to Particle collision count: 8227      Elapsed time: 3.687590
+Particle to Particle collision count: 8228      Elapsed time: 3.687659
+Particle to Particle collision count: 8229      Elapsed time: 3.687925
+Particle to Particle collision count: 8230      Elapsed time: 3.688062
+Particle to Particle collision count: 8231      Elapsed time: 3.688128
+Particle to Particle collision count: 8232      Elapsed time: 3.688198
+Particle to Particle collision count: 8233      Elapsed time: 3.688901
+Particle to Particle collision count: 8234      Elapsed time: 3.689837
+Particle to Particle collision count: 8235      Elapsed time: 3.690195
+Particle to Particle collision count: 8236      Elapsed time: 3.690386
+Particle to Particle collision count: 8237      Elapsed time: 3.690642
+Particle to Particle collision count: 8238      Elapsed time: 3.690651
+Particle to Particle collision count: 8239      Elapsed time: 3.690816
+Particle to Particle collision count: 8240      Elapsed time: 3.691506
+Particle to Particle collision count: 8241      Elapsed time: 3.691980
+Particle to Particle collision count: 8242      Elapsed time: 3.692021
+Particle to Particle collision count: 8243      Elapsed time: 3.692088
+Particle to Particle collision count: 8244      Elapsed time: 3.692270
+Particle to Particle collision count: 8245      Elapsed time: 3.692860
+Particle to Particle collision count: 8246      Elapsed time: 3.693410
+Particle to Particle collision count: 8247      Elapsed time: 3.693414
+Particle to Particle collision count: 8248      Elapsed time: 3.693970
+Particle to Particle collision count: 8249      Elapsed time: 3.694297
+Particle to Particle collision count: 8250      Elapsed time: 3.694315
+Particle to Particle collision count: 8251      Elapsed time: 3.694328
+Particle to Particle collision count: 8252      Elapsed time: 3.695136
+Particle to Particle collision count: 8253      Elapsed time: 3.695352
+Particle to Particle collision count: 8254      Elapsed time: 3.695405
+Particle to Particle collision count: 8255      Elapsed time: 3.695509
+Particle to Particle collision count: 8256      Elapsed time: 3.696059
+Particle to Particle collision count: 8257      Elapsed time: 3.696139
+Particle to Particle collision count: 8258      Elapsed time: 3.696710
+Particle to Particle collision count: 8259      Elapsed time: 3.696944
+Particle to Particle collision count: 8260      Elapsed time: 3.697590
+Particle to Particle collision count: 8261      Elapsed time: 3.697759
+Particle to Particle collision count: 8262      Elapsed time: 3.697942
+Particle to Particle collision count: 8263      Elapsed time: 3.698770
+Particle to Particle collision count: 8264      Elapsed time: 3.699192
+Particle to Particle collision count: 8265      Elapsed time: 3.699505
+Particle to Particle collision count: 8266      Elapsed time: 3.699515
+Particle to Particle collision count: 8267      Elapsed time: 3.699982
+Particle to Particle collision count: 8268      Elapsed time: 3.700075
+Particle to Particle collision count: 8269      Elapsed time: 3.700172
+Particle to Particle collision count: 8270      Elapsed time: 3.700174
+Particle to Particle collision count: 8271      Elapsed time: 3.700575
+Particle to Particle collision count: 8272      Elapsed time: 3.700775
+Particle to Particle collision count: 8273      Elapsed time: 3.701066
+Particle to Particle collision count: 8274      Elapsed time: 3.701125
+Particle to Particle collision count: 8275      Elapsed time: 3.701283
+Particle to Particle collision count: 8276      Elapsed time: 3.701555
+Particle to Particle collision count: 8277      Elapsed time: 3.701704
+Particle to Particle collision count: 8278      Elapsed time: 3.701960
+Particle to Particle collision count: 8279      Elapsed time: 3.702160
+Particle to Particle collision count: 8280      Elapsed time: 3.702675
+Particle to Particle collision count: 8281      Elapsed time: 3.703069
+Particle to Particle collision count: 8282      Elapsed time: 3.703167
+Particle to Particle collision count: 8283      Elapsed time: 3.703622
+Particle to Particle collision count: 8284      Elapsed time: 3.704086
+Particle to Particle collision count: 8285      Elapsed time: 3.704112
+Particle to Particle collision count: 8286      Elapsed time: 3.704327
+Particle to Particle collision count: 8287      Elapsed time: 3.705795
+Particle to Particle collision count: 8288      Elapsed time: 3.705802
+Particle to Particle collision count: 8289      Elapsed time: 3.706021
+Particle to Particle collision count: 8290      Elapsed time: 3.706059
+Particle to Particle collision count: 8291      Elapsed time: 3.706098
+Particle to Particle collision count: 8292      Elapsed time: 3.706237
+Particle to Particle collision count: 8293      Elapsed time: 3.707501
+Particle to Particle collision count: 8294      Elapsed time: 3.708314
+Particle to Particle collision count: 8295      Elapsed time: 3.708436
+Particle to Particle collision count: 8296      Elapsed time: 3.708853
+Particle to Particle collision count: 8297      Elapsed time: 3.710389
+Particle to Particle collision count: 8298      Elapsed time: 3.711280
+Particle to Particle collision count: 8299      Elapsed time: 3.711526
+Particle to Particle collision count: 8300      Elapsed time: 3.711724
+Particle to Particle collision count: 8301      Elapsed time: 3.711892
+Particle to Particle collision count: 8302      Elapsed time: 3.712650
+Particle to Particle collision count: 8303      Elapsed time: 3.713156
+Particle to Particle collision count: 8304      Elapsed time: 3.713217
+Particle to Particle collision count: 8305      Elapsed time: 3.714176
+Particle to Particle collision count: 8306      Elapsed time: 3.715048
+Particle to Particle collision count: 8307      Elapsed time: 3.715820
+Particle to Particle collision count: 8308      Elapsed time: 3.715927
+Particle to Particle collision count: 8309      Elapsed time: 3.716882
+Particle to Particle collision count: 8310      Elapsed time: 3.717029
+Particle to Particle collision count: 8311      Elapsed time: 3.717174
+Particle to Particle collision count: 8312      Elapsed time: 3.717643
+Particle to Particle collision count: 8313      Elapsed time: 3.718553
+Particle to Particle collision count: 8314      Elapsed time: 3.718612
+Particle to Particle collision count: 8315      Elapsed time: 3.718686
+Particle to Particle collision count: 8316      Elapsed time: 3.719372
+Particle to Particle collision count: 8317      Elapsed time: 3.719567
+Particle to Particle collision count: 8318      Elapsed time: 3.720037
+Particle to Particle collision count: 8319      Elapsed time: 3.720358
+Particle to Particle collision count: 8320      Elapsed time: 3.722126
+Particle to Particle collision count: 8321      Elapsed time: 3.722404
+Particle to Particle collision count: 8322      Elapsed time: 3.723531
+Particle to Particle collision count: 8323      Elapsed time: 3.725954
+Particle to Particle collision count: 8324      Elapsed time: 3.726237
+Particle to Particle collision count: 8325      Elapsed time: 3.726419
+Particle to Particle collision count: 8326      Elapsed time: 3.729241
+Particle to Particle collision count: 8327      Elapsed time: 3.729588
+Particle to Particle collision count: 8328      Elapsed time: 3.729614
+Particle to Particle collision count: 8329      Elapsed time: 3.729667
+Particle to Particle collision count: 8330      Elapsed time: 3.729884
+Particle to Particle collision count: 8331      Elapsed time: 3.729914
+Particle to Particle collision count: 8332      Elapsed time: 3.730353
+Particle to Particle collision count: 8333      Elapsed time: 3.730567
+Particle to Particle collision count: 8334      Elapsed time: 3.730581
+Particle to Particle collision count: 8335      Elapsed time: 3.730751
+Particle to Particle collision count: 8336      Elapsed time: 3.731154
+Particle to Particle collision count: 8337      Elapsed time: 3.731435
+Particle to Particle collision count: 8338      Elapsed time: 3.731819
+Particle to Particle collision count: 8339      Elapsed time: 3.732155
+Particle to Particle collision count: 8340      Elapsed time: 3.732514
+Particle to Particle collision count: 8341      Elapsed time: 3.734321
+Particle to Particle collision count: 8342      Elapsed time: 3.734413
+Particle to Particle collision count: 8343      Elapsed time: 3.734491
+Particle to Particle collision count: 8344      Elapsed time: 3.734540
+Particle to Particle collision count: 8345      Elapsed time: 3.734681
+Particle to Particle collision count: 8346      Elapsed time: 3.736042
+Particle to Particle collision count: 8347      Elapsed time: 3.736474
+Particle to Particle collision count: 8348      Elapsed time: 3.736635
+Particle to Particle collision count: 8349      Elapsed time: 3.736780
+Particle to Particle collision count: 8350      Elapsed time: 3.737131
+Particle to Particle collision count: 8351      Elapsed time: 3.737642
+Particle to Particle collision count: 8352      Elapsed time: 3.738002
+Particle to Particle collision count: 8353      Elapsed time: 3.738849
+Particle to Particle collision count: 8354      Elapsed time: 3.739047
+Particle to Particle collision count: 8355      Elapsed time: 3.739627
+Particle to Particle collision count: 8356      Elapsed time: 3.740926
+Particle to Particle collision count: 8357      Elapsed time: 3.741520
+Particle to Particle collision count: 8358      Elapsed time: 3.741594
+Particle to Particle collision count: 8359      Elapsed time: 3.741721
+Particle to Particle collision count: 8360      Elapsed time: 3.742133
+Particle to Particle collision count: 8361      Elapsed time: 3.743058
+Particle to Particle collision count: 8362      Elapsed time: 3.743197
+Particle to Particle collision count: 8363      Elapsed time: 3.743700
+Particle to Particle collision count: 8364      Elapsed time: 3.744262
+Particle to Particle collision count: 8365      Elapsed time: 3.744739
+Particle to Particle collision count: 8366      Elapsed time: 3.745135
+Particle to Particle collision count: 8367      Elapsed time: 3.745728
+Particle to Particle collision count: 8368      Elapsed time: 3.745982
+Particle to Particle collision count: 8369      Elapsed time: 3.746128
+Particle to Particle collision count: 8370      Elapsed time: 3.746645
+Particle to Particle collision count: 8371      Elapsed time: 3.747014
+Particle to Particle collision count: 8372      Elapsed time: 3.747163
+Particle to Particle collision count: 8373      Elapsed time: 3.747322
+Particle to Particle collision count: 8374      Elapsed time: 3.748949
+Particle to Particle collision count: 8375      Elapsed time: 3.748977
+Particle to Particle collision count: 8376      Elapsed time: 3.749699
+Particle to Particle collision count: 8377      Elapsed time: 3.750079
+Particle to Particle collision count: 8378      Elapsed time: 3.750560
+Particle to Particle collision count: 8379      Elapsed time: 3.750579
+Particle to Particle collision count: 8380      Elapsed time: 3.750701
+Particle to Particle collision count: 8381      Elapsed time: 3.751209
+Particle to Particle collision count: 8382      Elapsed time: 3.751482
+Particle to Particle collision count: 8383      Elapsed time: 3.752237
+Particle to Particle collision count: 8384      Elapsed time: 3.753395
+Particle to Particle collision count: 8385      Elapsed time: 3.753622
+Particle to Particle collision count: 8386      Elapsed time: 3.753806
+Particle to Particle collision count: 8387      Elapsed time: 3.754200
+Particle to Particle collision count: 8388      Elapsed time: 3.754203
+Particle to Particle collision count: 8389      Elapsed time: 3.754747
+Particle to Particle collision count: 8390      Elapsed time: 3.755881
+Particle to Particle collision count: 8391      Elapsed time: 3.756027
+Particle to Particle collision count: 8392      Elapsed time: 3.757827
+Particle to Particle collision count: 8393      Elapsed time: 3.758088
+Particle to Particle collision count: 8394      Elapsed time: 3.758971
+Particle to Particle collision count: 8395      Elapsed time: 3.759630
+Particle to Particle collision count: 8396      Elapsed time: 3.759856
+Particle to Particle collision count: 8397      Elapsed time: 3.760163
+Particle to Particle collision count: 8398      Elapsed time: 3.761461
+Particle to Particle collision count: 8399      Elapsed time: 3.761589
+Particle to Particle collision count: 8400      Elapsed time: 3.761788
+Particle to Particle collision count: 8401      Elapsed time: 3.762197
+Particle to Particle collision count: 8402      Elapsed time: 3.762342
+Particle to Particle collision count: 8403      Elapsed time: 3.762671
+Particle to Particle collision count: 8404      Elapsed time: 3.762722
+Particle to Particle collision count: 8405      Elapsed time: 3.763034
+Particle to Particle collision count: 8406      Elapsed time: 3.763113
+Particle to Particle collision count: 8407      Elapsed time: 3.763130
+Particle to Particle collision count: 8408      Elapsed time: 3.763623
+Particle to Particle collision count: 8409      Elapsed time: 3.763671
+Particle to Particle collision count: 8410      Elapsed time: 3.763799
+Particle to Particle collision count: 8411      Elapsed time: 3.764097
+Particle to Particle collision count: 8412      Elapsed time: 3.764828
+Particle to Particle collision count: 8413      Elapsed time: 3.765088
+Particle to Particle collision count: 8414      Elapsed time: 3.765130
+Particle to Particle collision count: 8415      Elapsed time: 3.765568
+Particle to Particle collision count: 8416      Elapsed time: 3.766391
+Particle to Particle collision count: 8417      Elapsed time: 3.766871
+Particle to Particle collision count: 8418      Elapsed time: 3.767065
+Particle to Particle collision count: 8419      Elapsed time: 3.767355
+Particle to Particle collision count: 8420      Elapsed time: 3.767647
+Particle to Particle collision count: 8421      Elapsed time: 3.767983
+Particle to Particle collision count: 8422      Elapsed time: 3.768153
+Particle to Particle collision count: 8423      Elapsed time: 3.768357
+Particle to Particle collision count: 8424      Elapsed time: 3.768362
+Particle to Particle collision count: 8425      Elapsed time: 3.769473
+Particle to Particle collision count: 8426      Elapsed time: 3.769866
+Particle to Particle collision count: 8427      Elapsed time: 3.770653
+Particle to Particle collision count: 8428      Elapsed time: 3.770738
+Particle to Particle collision count: 8429      Elapsed time: 3.770938
+Particle to Particle collision count: 8430      Elapsed time: 3.771500
+Particle to Particle collision count: 8431      Elapsed time: 3.771693
+Particle to Particle collision count: 8432      Elapsed time: 3.771862
+Particle to Particle collision count: 8433      Elapsed time: 3.772274
+Particle to Particle collision count: 8434      Elapsed time: 3.772836
+Particle to Particle collision count: 8435      Elapsed time: 3.773532
+Particle to Particle collision count: 8436      Elapsed time: 3.773680
+Particle to Particle collision count: 8437      Elapsed time: 3.774469
+Particle to Particle collision count: 8438      Elapsed time: 3.774494
+Particle to Particle collision count: 8439      Elapsed time: 3.774567
+Particle to Particle collision count: 8440      Elapsed time: 3.776917
+Particle to Particle collision count: 8441      Elapsed time: 3.777184
+Particle to Particle collision count: 8442      Elapsed time: 3.777376
+Particle to Particle collision count: 8443      Elapsed time: 3.777712
+Particle to Particle collision count: 8444      Elapsed time: 3.777849
+Particle to Particle collision count: 8445      Elapsed time: 3.777935
+Particle to Particle collision count: 8446      Elapsed time: 3.779243
+Particle to Particle collision count: 8447      Elapsed time: 3.780882
+Particle to Particle collision count: 8448      Elapsed time: 3.781059
+Particle to Particle collision count: 8449      Elapsed time: 3.782330
+Particle to Particle collision count: 8450      Elapsed time: 3.782946
+Particle to Particle collision count: 8451      Elapsed time: 3.783098
+Particle to Particle collision count: 8452      Elapsed time: 3.783879
+Particle to Particle collision count: 8453      Elapsed time: 3.784763
+Particle to Particle collision count: 8454      Elapsed time: 3.785721
+Particle to Particle collision count: 8455      Elapsed time: 3.786110
+Particle to Particle collision count: 8456      Elapsed time: 3.786328
+Particle to Particle collision count: 8457      Elapsed time: 3.786432
+Particle to Particle collision count: 8458      Elapsed time: 3.786604
+Particle to Particle collision count: 8459      Elapsed time: 3.786923
+Particle to Particle collision count: 8460      Elapsed time: 3.787218
+Particle to Particle collision count: 8461      Elapsed time: 3.787591
+Particle to Particle collision count: 8462      Elapsed time: 3.787661
+Particle to Particle collision count: 8463      Elapsed time: 3.787765
+Particle to Particle collision count: 8464      Elapsed time: 3.788486
+Particle to Particle collision count: 8465      Elapsed time: 3.788641
+Particle to Particle collision count: 8466      Elapsed time: 3.788677
+Particle to Particle collision count: 8467      Elapsed time: 3.789061
+Particle to Particle collision count: 8468      Elapsed time: 3.791100
+Particle to Particle collision count: 8469      Elapsed time: 3.791858
+Particle to Particle collision count: 8470      Elapsed time: 3.791931
+Particle to Particle collision count: 8471      Elapsed time: 3.791937
+Particle to Particle collision count: 8472      Elapsed time: 3.791955
+Particle to Particle collision count: 8473      Elapsed time: 3.793368
+Particle to Particle collision count: 8474      Elapsed time: 3.794682
+Particle to Particle collision count: 8475      Elapsed time: 3.795759
+Particle to Particle collision count: 8476      Elapsed time: 3.796189
+Particle to Particle collision count: 8477      Elapsed time: 3.797232
+Particle to Particle collision count: 8478      Elapsed time: 3.797340
+Particle to Particle collision count: 8479      Elapsed time: 3.797393
+Particle to Particle collision count: 8480      Elapsed time: 3.797425
+Particle to Particle collision count: 8481      Elapsed time: 3.797645
+Particle to Particle collision count: 8482      Elapsed time: 3.797966
+Particle to Particle collision count: 8483      Elapsed time: 3.798073
+Particle to Particle collision count: 8484      Elapsed time: 3.798216
+Particle to Particle collision count: 8485      Elapsed time: 3.798278
+Particle to Particle collision count: 8486      Elapsed time: 3.798280
+Particle to Particle collision count: 8487      Elapsed time: 3.798430
+Particle to Particle collision count: 8488      Elapsed time: 3.798556
+Particle to Particle collision count: 8489      Elapsed time: 3.798838
+Particle to Particle collision count: 8490      Elapsed time: 3.799910
+Particle to Particle collision count: 8491      Elapsed time: 3.800319
+Particle to Particle collision count: 8492      Elapsed time: 3.801417
+Particle to Particle collision count: 8493      Elapsed time: 3.801450
+Particle to Particle collision count: 8494      Elapsed time: 3.801466
+Particle to Particle collision count: 8495      Elapsed time: 3.801618
+Particle to Particle collision count: 8496      Elapsed time: 3.801743
+Particle to Particle collision count: 8497      Elapsed time: 3.801827
+Particle to Particle collision count: 8498      Elapsed time: 3.802243
+Particle to Particle collision count: 8499      Elapsed time: 3.802875
+Particle to Particle collision count: 8500      Elapsed time: 3.803809
+Particle to Particle collision count: 8501      Elapsed time: 3.805188
+Particle to Particle collision count: 8502      Elapsed time: 3.805384
+Particle to Particle collision count: 8503      Elapsed time: 3.805796
+Particle to Particle collision count: 8504      Elapsed time: 3.805841
+Particle to Particle collision count: 8505      Elapsed time: 3.805960
+Particle to Particle collision count: 8506      Elapsed time: 3.806369
+Particle to Particle collision count: 8507      Elapsed time: 3.807700
+Particle to Particle collision count: 8508      Elapsed time: 3.807737
+Particle to Particle collision count: 8509      Elapsed time: 3.807928
+Particle to Particle collision count: 8510      Elapsed time: 3.808374
+Particle to Particle collision count: 8511      Elapsed time: 3.809139
+Particle to Particle collision count: 8512      Elapsed time: 3.809175
+Particle to Particle collision count: 8513      Elapsed time: 3.809331
+Particle to Particle collision count: 8514      Elapsed time: 3.811103
+Particle to Particle collision count: 8515      Elapsed time: 3.811954
+Particle to Particle collision count: 8516      Elapsed time: 3.812266
+Particle to Particle collision count: 8517      Elapsed time: 3.812277
+Particle to Particle collision count: 8518      Elapsed time: 3.813403
+Particle to Particle collision count: 8519      Elapsed time: 3.813960
+Particle to Particle collision count: 8520      Elapsed time: 3.815288
+Particle to Particle collision count: 8521      Elapsed time: 3.815991
+Particle to Particle collision count: 8522      Elapsed time: 3.817218
+Particle to Particle collision count: 8523      Elapsed time: 3.817830
+Particle to Particle collision count: 8524      Elapsed time: 3.818458
+Particle to Particle collision count: 8525      Elapsed time: 3.818467
+Particle to Particle collision count: 8526      Elapsed time: 3.818921
+Particle to Particle collision count: 8527      Elapsed time: 3.819718
+Particle to Particle collision count: 8528      Elapsed time: 3.820186
+Particle to Particle collision count: 8529      Elapsed time: 3.820886
+Particle to Particle collision count: 8530      Elapsed time: 3.821262
+Particle to Particle collision count: 8531      Elapsed time: 3.822171
+Particle to Particle collision count: 8532      Elapsed time: 3.822181
+Particle to Particle collision count: 8533      Elapsed time: 3.822223
+Particle to Particle collision count: 8534      Elapsed time: 3.822639
+Particle to Particle collision count: 8535      Elapsed time: 3.823532
+Particle to Particle collision count: 8536      Elapsed time: 3.823891
+Particle to Particle collision count: 8537      Elapsed time: 3.823916
+Particle to Particle collision count: 8538      Elapsed time: 3.824518
+Particle to Particle collision count: 8539      Elapsed time: 3.824942
+Particle to Particle collision count: 8540      Elapsed time: 3.825786
+Particle to Particle collision count: 8541      Elapsed time: 3.825882
+Particle to Particle collision count: 8542      Elapsed time: 3.826475
+Particle to Particle collision count: 8543      Elapsed time: 3.826900
+Particle to Particle collision count: 8544      Elapsed time: 3.827340
+Particle to Particle collision count: 8545      Elapsed time: 3.827640
+Particle to Particle collision count: 8546      Elapsed time: 3.828509
+Particle to Particle collision count: 8547      Elapsed time: 3.828548
+Particle to Particle collision count: 8548      Elapsed time: 3.829570
+Particle to Particle collision count: 8549      Elapsed time: 3.830509
+Particle to Particle collision count: 8550      Elapsed time: 3.830646
+Particle to Particle collision count: 8551      Elapsed time: 3.830942
+Particle to Particle collision count: 8552      Elapsed time: 3.830980
+Particle to Particle collision count: 8553      Elapsed time: 3.830984
+Particle to Particle collision count: 8554      Elapsed time: 3.831304
+Particle to Particle collision count: 8555      Elapsed time: 3.831408
+Particle to Particle collision count: 8556      Elapsed time: 3.831468
+Particle to Particle collision count: 8557      Elapsed time: 3.832091
+Particle to Particle collision count: 8558      Elapsed time: 3.832640
+Particle to Particle collision count: 8559      Elapsed time: 3.834550
+Particle to Particle collision count: 8560      Elapsed time: 3.835784
+Particle to Particle collision count: 8561      Elapsed time: 3.836413
+Particle to Particle collision count: 8562      Elapsed time: 3.836416
+Particle to Particle collision count: 8563      Elapsed time: 3.837267
+Particle to Particle collision count: 8564      Elapsed time: 3.837421
+Particle to Particle collision count: 8565      Elapsed time: 3.837749
+Particle to Particle collision count: 8566      Elapsed time: 3.837989
+Particle to Particle collision count: 8567      Elapsed time: 3.838201
+Particle to Particle collision count: 8568      Elapsed time: 3.838541
+Particle to Particle collision count: 8569      Elapsed time: 3.838589
+Particle to Particle collision count: 8570      Elapsed time: 3.839380
+Particle to Particle collision count: 8571      Elapsed time: 3.839394
+Particle to Particle collision count: 8572      Elapsed time: 3.839557
+Particle to Particle collision count: 8573      Elapsed time: 3.839806
+Particle to Particle collision count: 8574      Elapsed time: 3.840847
+Particle to Particle collision count: 8575      Elapsed time: 3.840972
+Particle to Particle collision count: 8576      Elapsed time: 3.841247
+Particle to Particle collision count: 8577      Elapsed time: 3.841299
+Particle to Particle collision count: 8578      Elapsed time: 3.841321
+Particle to Particle collision count: 8579      Elapsed time: 3.841636
+Particle to Particle collision count: 8580      Elapsed time: 3.841667
+Particle to Particle collision count: 8581      Elapsed time: 3.841743
+Particle to Particle collision count: 8582      Elapsed time: 3.842861
+Particle to Particle collision count: 8583      Elapsed time: 3.842937
+Particle to Particle collision count: 8584      Elapsed time: 3.843225
+Particle to Particle collision count: 8585      Elapsed time: 3.843687
+Particle to Particle collision count: 8586      Elapsed time: 3.843720
+Particle to Particle collision count: 8587      Elapsed time: 3.844070
+Particle to Particle collision count: 8588      Elapsed time: 3.844156
+Particle to Particle collision count: 8589      Elapsed time: 3.845023
+Particle to Particle collision count: 8590      Elapsed time: 3.845141
+Particle to Particle collision count: 8591      Elapsed time: 3.845434
+Particle to Particle collision count: 8592      Elapsed time: 3.846206
+Particle to Particle collision count: 8593      Elapsed time: 3.846351
+Particle to Particle collision count: 8594      Elapsed time: 3.846619
+Particle to Particle collision count: 8595      Elapsed time: 3.847816
+Particle to Particle collision count: 8596      Elapsed time: 3.848206
+Particle to Particle collision count: 8597      Elapsed time: 3.848503
+Particle to Particle collision count: 8598      Elapsed time: 3.849035
+Particle to Particle collision count: 8599      Elapsed time: 3.849036
+Particle to Particle collision count: 8600      Elapsed time: 3.849125
+Particle to Particle collision count: 8601      Elapsed time: 3.849218
+Particle to Particle collision count: 8602      Elapsed time: 3.849623
+Particle to Particle collision count: 8603      Elapsed time: 3.849665
+Particle to Particle collision count: 8604      Elapsed time: 3.849804
+Particle to Particle collision count: 8605      Elapsed time: 3.850647
+Particle to Particle collision count: 8606      Elapsed time: 3.850677
+Particle to Particle collision count: 8607      Elapsed time: 3.851125
+Particle to Particle collision count: 8608      Elapsed time: 3.851405
+Particle to Particle collision count: 8609      Elapsed time: 3.851691
+Particle to Particle collision count: 8610      Elapsed time: 3.851900
+Particle to Particle collision count: 8611      Elapsed time: 3.852004
+Particle to Particle collision count: 8612      Elapsed time: 3.852077
+Particle to Particle collision count: 8613      Elapsed time: 3.852977
+Particle to Particle collision count: 8614      Elapsed time: 3.853067
+Particle to Particle collision count: 8615      Elapsed time: 3.853173
+Particle to Particle collision count: 8616      Elapsed time: 3.856172
+Particle to Particle collision count: 8617      Elapsed time: 3.856870
+Particle to Particle collision count: 8618      Elapsed time: 3.857409
+Particle to Particle collision count: 8619      Elapsed time: 3.857522
+Particle to Particle collision count: 8620      Elapsed time: 3.857626
+Particle to Particle collision count: 8621      Elapsed time: 3.857634
+Particle to Particle collision count: 8622      Elapsed time: 3.857670
+Particle to Particle collision count: 8623      Elapsed time: 3.858067
+Particle to Particle collision count: 8624      Elapsed time: 3.858580
+Particle to Particle collision count: 8625      Elapsed time: 3.858707
+Particle to Particle collision count: 8626      Elapsed time: 3.858835
+Particle to Particle collision count: 8627      Elapsed time: 3.858957
+Particle to Particle collision count: 8628      Elapsed time: 3.859255
+Particle to Particle collision count: 8629      Elapsed time: 3.860385
+Particle to Particle collision count: 8630      Elapsed time: 3.860692
+Particle to Particle collision count: 8631      Elapsed time: 3.861590
+Particle to Particle collision count: 8632      Elapsed time: 3.862628
+Particle to Particle collision count: 8633      Elapsed time: 3.863670
+Particle to Particle collision count: 8634      Elapsed time: 3.865533
+Particle to Particle collision count: 8635      Elapsed time: 3.866350
+Particle to Particle collision count: 8636      Elapsed time: 3.866833
+Particle to Particle collision count: 8637      Elapsed time: 3.867365
+Particle to Particle collision count: 8638      Elapsed time: 3.867491
+Particle to Particle collision count: 8639      Elapsed time: 3.867503
+Particle to Particle collision count: 8640      Elapsed time: 3.868417
+Particle to Particle collision count: 8641      Elapsed time: 3.868861
+Particle to Particle collision count: 8642      Elapsed time: 3.869069
+Particle to Particle collision count: 8643      Elapsed time: 3.869193
+Particle to Particle collision count: 8644      Elapsed time: 3.870496
+Particle to Particle collision count: 8645      Elapsed time: 3.870911
+Particle to Particle collision count: 8646      Elapsed time: 3.871611
+Particle to Particle collision count: 8647      Elapsed time: 3.872532
+Particle to Particle collision count: 8648      Elapsed time: 3.872546
+Particle to Particle collision count: 8649      Elapsed time: 3.872580
+Particle to Particle collision count: 8650      Elapsed time: 3.872834
+Particle to Particle collision count: 8651      Elapsed time: 3.873015
+Particle to Particle collision count: 8652      Elapsed time: 3.873316
+Particle to Particle collision count: 8653      Elapsed time: 3.873514
+Particle to Particle collision count: 8654      Elapsed time: 3.873635
+Particle to Particle collision count: 8655      Elapsed time: 3.874005
+Particle to Particle collision count: 8656      Elapsed time: 3.874502
+Particle to Particle collision count: 8657      Elapsed time: 3.875282
+Particle to Particle collision count: 8658      Elapsed time: 3.875984
+Particle to Particle collision count: 8659      Elapsed time: 3.876956
+Particle to Particle collision count: 8660      Elapsed time: 3.877006
+Particle to Particle collision count: 8661      Elapsed time: 3.877867
+Particle to Particle collision count: 8662      Elapsed time: 3.877978
+Particle to Particle collision count: 8663      Elapsed time: 3.877989
+Particle to Particle collision count: 8664      Elapsed time: 3.878080
+Particle to Particle collision count: 8665      Elapsed time: 3.878183
+Particle to Particle collision count: 8666      Elapsed time: 3.878307
+Particle to Particle collision count: 8667      Elapsed time: 3.878379
+Particle to Particle collision count: 8668      Elapsed time: 3.879195
+Particle to Particle collision count: 8669      Elapsed time: 3.879197
+Particle to Particle collision count: 8670      Elapsed time: 3.879282
+Particle to Particle collision count: 8671      Elapsed time: 3.880656
+Particle to Particle collision count: 8672      Elapsed time: 3.881418
+Particle to Particle collision count: 8673      Elapsed time: 3.881514
+Particle to Particle collision count: 8674      Elapsed time: 3.881944
+Particle to Particle collision count: 8675      Elapsed time: 3.882078
+Particle to Particle collision count: 8676      Elapsed time: 3.883240
+Particle to Particle collision count: 8677      Elapsed time: 3.883311
+Particle to Particle collision count: 8678      Elapsed time: 3.884160
+Particle to Particle collision count: 8679      Elapsed time: 3.884255
+Particle to Particle collision count: 8680      Elapsed time: 3.884707
+Particle to Particle collision count: 8681      Elapsed time: 3.885599
+Particle to Particle collision count: 8682      Elapsed time: 3.886130
+Particle to Particle collision count: 8683      Elapsed time: 3.887049
+Particle to Particle collision count: 8684      Elapsed time: 3.888413
+Particle to Particle collision count: 8685      Elapsed time: 3.888414
+Particle to Particle collision count: 8686      Elapsed time: 3.889074
+Particle to Particle collision count: 8687      Elapsed time: 3.889084
+Particle to Particle collision count: 8688      Elapsed time: 3.889200
+Particle to Particle collision count: 8689      Elapsed time: 3.889341
+Particle to Particle collision count: 8690      Elapsed time: 3.889482
+Particle to Particle collision count: 8691      Elapsed time: 3.889663
+Particle to Particle collision count: 8692      Elapsed time: 3.889770
+Particle to Particle collision count: 8693      Elapsed time: 3.890020
+Particle to Particle collision count: 8694      Elapsed time: 3.890281
+Particle to Particle collision count: 8695      Elapsed time: 3.890354
+Particle to Particle collision count: 8696      Elapsed time: 3.891081
+Particle to Particle collision count: 8697      Elapsed time: 3.891711
+Particle to Particle collision count: 8698      Elapsed time: 3.891944
+Particle to Particle collision count: 8699      Elapsed time: 3.892137
+Particle to Particle collision count: 8700      Elapsed time: 3.892205
+Particle to Particle collision count: 8701      Elapsed time: 3.892647
+Particle to Particle collision count: 8702      Elapsed time: 3.892962
+Particle to Particle collision count: 8703      Elapsed time: 3.893372
+Particle to Particle collision count: 8704      Elapsed time: 3.893538
+Particle to Particle collision count: 8705      Elapsed time: 3.895545
+Particle to Particle collision count: 8706      Elapsed time: 3.895674
+Particle to Particle collision count: 8707      Elapsed time: 3.896026
+Particle to Particle collision count: 8708      Elapsed time: 3.896318
+Particle to Particle collision count: 8709      Elapsed time: 3.896602
+Particle to Particle collision count: 8710      Elapsed time: 3.896752
+Particle to Particle collision count: 8711      Elapsed time: 3.897296
+Particle to Particle collision count: 8712      Elapsed time: 3.897312
+Particle to Particle collision count: 8713      Elapsed time: 3.898064
+Particle to Particle collision count: 8714      Elapsed time: 3.898461
+Particle to Particle collision count: 8715      Elapsed time: 3.898570
+Particle to Particle collision count: 8716      Elapsed time: 3.898903
+Particle to Particle collision count: 8717      Elapsed time: 3.898946
+Particle to Particle collision count: 8718      Elapsed time: 3.899258
+Particle to Particle collision count: 8719      Elapsed time: 3.899414
+Particle to Particle collision count: 8720      Elapsed time: 3.900421
+Particle to Particle collision count: 8721      Elapsed time: 3.900476
+Particle to Particle collision count: 8722      Elapsed time: 3.901772
+Particle to Particle collision count: 8723      Elapsed time: 3.902250
+Particle to Particle collision count: 8724      Elapsed time: 3.902328
+Particle to Particle collision count: 8725      Elapsed time: 3.902483
+Particle to Particle collision count: 8726      Elapsed time: 3.902935
+Particle to Particle collision count: 8727      Elapsed time: 3.903458
+Particle to Particle collision count: 8728      Elapsed time: 3.903896
+Particle to Particle collision count: 8729      Elapsed time: 3.904089
+Particle to Particle collision count: 8730      Elapsed time: 3.904971
+Particle to Particle collision count: 8731      Elapsed time: 3.905269
+Particle to Particle collision count: 8732      Elapsed time: 3.905540
+Particle to Particle collision count: 8733      Elapsed time: 3.905879
+Particle to Particle collision count: 8734      Elapsed time: 3.906227
+Particle to Particle collision count: 8735      Elapsed time: 3.906367
+Particle to Particle collision count: 8736      Elapsed time: 3.906386
+Particle to Particle collision count: 8737      Elapsed time: 3.907153
+Particle to Particle collision count: 8738      Elapsed time: 3.907382
+Particle to Particle collision count: 8739      Elapsed time: 3.907451
+Particle to Particle collision count: 8740      Elapsed time: 3.907784
+Particle to Particle collision count: 8741      Elapsed time: 3.907899
+Particle to Particle collision count: 8742      Elapsed time: 3.907962
+Particle to Particle collision count: 8743      Elapsed time: 3.908074
+Particle to Particle collision count: 8744      Elapsed time: 3.908128
+Particle to Particle collision count: 8745      Elapsed time: 3.909688
+Particle to Particle collision count: 8746      Elapsed time: 3.910583
+Particle to Particle collision count: 8747      Elapsed time: 3.911240
+Particle to Particle collision count: 8748      Elapsed time: 3.911354
+Particle to Particle collision count: 8749      Elapsed time: 3.911485
+Particle to Particle collision count: 8750      Elapsed time: 3.911891
+Particle to Particle collision count: 8751      Elapsed time: 3.911974
+Particle to Particle collision count: 8752      Elapsed time: 3.912147
+Particle to Particle collision count: 8753      Elapsed time: 3.912636
+Particle to Particle collision count: 8754      Elapsed time: 3.912687
+Particle to Particle collision count: 8755      Elapsed time: 3.913085
+Particle to Particle collision count: 8756      Elapsed time: 3.913369
+Particle to Particle collision count: 8757      Elapsed time: 3.913538
+Particle to Particle collision count: 8758      Elapsed time: 3.914313
+Particle to Particle collision count: 8759      Elapsed time: 3.914730
+Particle to Particle collision count: 8760      Elapsed time: 3.915835
+Particle to Particle collision count: 8761      Elapsed time: 3.916883
+Particle to Particle collision count: 8762      Elapsed time: 3.916893
+Particle to Particle collision count: 8763      Elapsed time: 3.917152
+Particle to Particle collision count: 8764      Elapsed time: 3.917737
+Particle to Particle collision count: 8765      Elapsed time: 3.918436
+Particle to Particle collision count: 8766      Elapsed time: 3.918528
+Particle to Particle collision count: 8767      Elapsed time: 3.918928
+Particle to Particle collision count: 8768      Elapsed time: 3.919067
+Particle to Particle collision count: 8769      Elapsed time: 3.920643
+Particle to Particle collision count: 8770      Elapsed time: 3.920693
+Particle to Particle collision count: 8771      Elapsed time: 3.921201
+Particle to Particle collision count: 8772      Elapsed time: 3.921319
+Particle to Particle collision count: 8773      Elapsed time: 3.921367
+Particle to Particle collision count: 8774      Elapsed time: 3.922381
+Particle to Particle collision count: 8775      Elapsed time: 3.922528
+Particle to Particle collision count: 8776      Elapsed time: 3.922602
+Particle to Particle collision count: 8777      Elapsed time: 3.924010
+Particle to Particle collision count: 8778      Elapsed time: 3.924538
+Particle to Particle collision count: 8779      Elapsed time: 3.924670
+Particle to Particle collision count: 8780      Elapsed time: 3.926180
+Particle to Particle collision count: 8781      Elapsed time: 3.927019
+Particle to Particle collision count: 8782      Elapsed time: 3.927948
+Particle to Particle collision count: 8783      Elapsed time: 3.927965
+Particle to Particle collision count: 8784      Elapsed time: 3.928001
+Particle to Particle collision count: 8785      Elapsed time: 3.929091
+Particle to Particle collision count: 8786      Elapsed time: 3.929653
+Particle to Particle collision count: 8787      Elapsed time: 3.929834
+Particle to Particle collision count: 8788      Elapsed time: 3.930812
+Particle to Particle collision count: 8789      Elapsed time: 3.931060
+Particle to Particle collision count: 8790      Elapsed time: 3.931570
+Particle to Particle collision count: 8791      Elapsed time: 3.932490
+Particle to Particle collision count: 8792      Elapsed time: 3.932999
+Particle to Particle collision count: 8793      Elapsed time: 3.933496
+Particle to Particle collision count: 8794      Elapsed time: 3.934136
+Particle to Particle collision count: 8795      Elapsed time: 3.934330
+Particle to Particle collision count: 8796      Elapsed time: 3.935389
+Particle to Particle collision count: 8797      Elapsed time: 3.935557
+Particle to Particle collision count: 8798      Elapsed time: 3.935665
+Particle to Particle collision count: 8799      Elapsed time: 3.935811
+Particle to Particle collision count: 8800      Elapsed time: 3.936082
+Particle to Particle collision count: 8801      Elapsed time: 3.936188
+Particle to Particle collision count: 8802      Elapsed time: 3.936441
+Particle to Particle collision count: 8803      Elapsed time: 3.936544
+Particle to Particle collision count: 8804      Elapsed time: 3.936729
+Particle to Particle collision count: 8805      Elapsed time: 3.937023
+Particle to Particle collision count: 8806      Elapsed time: 3.937122
+Particle to Particle collision count: 8807      Elapsed time: 3.937314
+Particle to Particle collision count: 8808      Elapsed time: 3.937631
+Particle to Particle collision count: 8809      Elapsed time: 3.937751
+Particle to Particle collision count: 8810      Elapsed time: 3.938127
+Particle to Particle collision count: 8811      Elapsed time: 3.938608
+Particle to Particle collision count: 8812      Elapsed time: 3.938641
+Particle to Particle collision count: 8813      Elapsed time: 3.938754
+Particle to Particle collision count: 8814      Elapsed time: 3.939688
+Particle to Particle collision count: 8815      Elapsed time: 3.940480
+Particle to Particle collision count: 8816      Elapsed time: 3.942824
+Particle to Particle collision count: 8817      Elapsed time: 3.942835
+Particle to Particle collision count: 8818      Elapsed time: 3.943045
+Particle to Particle collision count: 8819      Elapsed time: 3.943701
+Particle to Particle collision count: 8820      Elapsed time: 3.944118
+Particle to Particle collision count: 8821      Elapsed time: 3.944607
+Particle to Particle collision count: 8822      Elapsed time: 3.945652
+Particle to Particle collision count: 8823      Elapsed time: 3.946306
+Particle to Particle collision count: 8824      Elapsed time: 3.946480
+Particle to Particle collision count: 8825      Elapsed time: 3.948714
+Particle to Particle collision count: 8826      Elapsed time: 3.948853
+Particle to Particle collision count: 8827      Elapsed time: 3.949587
+Particle to Particle collision count: 8828      Elapsed time: 3.949593
+Particle to Particle collision count: 8829      Elapsed time: 3.950773
+Particle to Particle collision count: 8830      Elapsed time: 3.951241
+Particle to Particle collision count: 8831      Elapsed time: 3.951556
+Particle to Particle collision count: 8832      Elapsed time: 3.952208
+Particle to Particle collision count: 8833      Elapsed time: 3.953116
+Particle to Particle collision count: 8834      Elapsed time: 3.954143
+Particle to Particle collision count: 8835      Elapsed time: 3.954218
+Particle to Particle collision count: 8836      Elapsed time: 3.954242
+Particle to Particle collision count: 8837      Elapsed time: 3.954317
+Particle to Particle collision count: 8838      Elapsed time: 3.956773
+Particle to Particle collision count: 8839      Elapsed time: 3.957295
+Particle to Particle collision count: 8840      Elapsed time: 3.958400
+Particle to Particle collision count: 8841      Elapsed time: 3.958446
+Particle to Particle collision count: 8842      Elapsed time: 3.958934
+Particle to Particle collision count: 8843      Elapsed time: 3.959013
+Particle to Particle collision count: 8844      Elapsed time: 3.959238
+Particle to Particle collision count: 8845      Elapsed time: 3.959913
+Particle to Particle collision count: 8846      Elapsed time: 3.960569
+Particle to Particle collision count: 8847      Elapsed time: 3.960985
+Particle to Particle collision count: 8848      Elapsed time: 3.961820
+Particle to Particle collision count: 8849      Elapsed time: 3.962348
+Particle to Particle collision count: 8850      Elapsed time: 3.963479
+Particle to Particle collision count: 8851      Elapsed time: 3.963754
+Particle to Particle collision count: 8852      Elapsed time: 3.965305
+Particle to Particle collision count: 8853      Elapsed time: 3.965461
+Particle to Particle collision count: 8854      Elapsed time: 3.966172
+Particle to Particle collision count: 8855      Elapsed time: 3.966218
+Particle to Particle collision count: 8856      Elapsed time: 3.966581
+Particle to Particle collision count: 8857      Elapsed time: 3.967301
+Particle to Particle collision count: 8858      Elapsed time: 3.967439
+Particle to Particle collision count: 8859      Elapsed time: 3.967580
+Particle to Particle collision count: 8860      Elapsed time: 3.967747
+Particle to Particle collision count: 8861      Elapsed time: 3.967962
+Particle to Particle collision count: 8862      Elapsed time: 3.968700
+Particle to Particle collision count: 8863      Elapsed time: 3.969812
+Particle to Particle collision count: 8864      Elapsed time: 3.970379
+Particle to Particle collision count: 8865      Elapsed time: 3.970490
+Particle to Particle collision count: 8866      Elapsed time: 3.970541
+Particle to Particle collision count: 8867      Elapsed time: 3.970577
+Particle to Particle collision count: 8868      Elapsed time: 3.970778
+Particle to Particle collision count: 8869      Elapsed time: 3.971067
+Particle to Particle collision count: 8870      Elapsed time: 3.971688
+Particle to Particle collision count: 8871      Elapsed time: 3.971812
+Particle to Particle collision count: 8872      Elapsed time: 3.972802
+Particle to Particle collision count: 8873      Elapsed time: 3.973214
+Particle to Particle collision count: 8874      Elapsed time: 3.973394
+Particle to Particle collision count: 8875      Elapsed time: 3.973622
+Particle to Particle collision count: 8876      Elapsed time: 3.973711
+Particle to Particle collision count: 8877      Elapsed time: 3.973979
+Particle to Particle collision count: 8878      Elapsed time: 3.974282
+Particle to Particle collision count: 8879      Elapsed time: 3.974907
+Particle to Particle collision count: 8880      Elapsed time: 3.975020
+Particle to Particle collision count: 8881      Elapsed time: 3.975468
+Particle to Particle collision count: 8882      Elapsed time: 3.975473
+Particle to Particle collision count: 8883      Elapsed time: 3.977186
+Particle to Particle collision count: 8884      Elapsed time: 3.977358
+Particle to Particle collision count: 8885      Elapsed time: 3.977469
+Particle to Particle collision count: 8886      Elapsed time: 3.978657
+Particle to Particle collision count: 8887      Elapsed time: 3.978812
+Particle to Particle collision count: 8888      Elapsed time: 3.979018
+Particle to Particle collision count: 8889      Elapsed time: 3.979121
+Particle to Particle collision count: 8890      Elapsed time: 3.981714
+Particle to Particle collision count: 8891      Elapsed time: 3.981803
+Particle to Particle collision count: 8892      Elapsed time: 3.981833
+Particle to Particle collision count: 8893      Elapsed time: 3.982481
+Particle to Particle collision count: 8894      Elapsed time: 3.983711
+Particle to Particle collision count: 8895      Elapsed time: 3.983912
+Particle to Particle collision count: 8896      Elapsed time: 3.984789
+Particle to Particle collision count: 8897      Elapsed time: 3.985091
+Particle to Particle collision count: 8898      Elapsed time: 3.987294
+Particle to Particle collision count: 8899      Elapsed time: 3.987466
+Particle to Particle collision count: 8900      Elapsed time: 3.988379
+Particle to Particle collision count: 8901      Elapsed time: 3.988977
+Particle to Particle collision count: 8902      Elapsed time: 3.989531
+Particle to Particle collision count: 8903      Elapsed time: 3.989649
+Particle to Particle collision count: 8904      Elapsed time: 3.990219
+Particle to Particle collision count: 8905      Elapsed time: 3.990233
+Particle to Particle collision count: 8906      Elapsed time: 3.990772
+Particle to Particle collision count: 8907      Elapsed time: 3.990911
+Particle to Particle collision count: 8908      Elapsed time: 3.992303
+Particle to Particle collision count: 8909      Elapsed time: 3.992320
+Particle to Particle collision count: 8910      Elapsed time: 3.993077
+Particle to Particle collision count: 8911      Elapsed time: 3.993839
+Particle to Particle collision count: 8912      Elapsed time: 3.994247
+Particle to Particle collision count: 8913      Elapsed time: 3.994842
+Particle to Particle collision count: 8914      Elapsed time: 3.995317
+Particle to Particle collision count: 8915      Elapsed time: 3.995636
+Particle to Particle collision count: 8916      Elapsed time: 3.995879
+Particle to Particle collision count: 8917      Elapsed time: 3.995986
+Particle to Particle collision count: 8918      Elapsed time: 3.996290
+Particle to Particle collision count: 8919      Elapsed time: 3.997307
+Particle to Particle collision count: 8920      Elapsed time: 3.997707
+Particle to Particle collision count: 8921      Elapsed time: 3.998039
+Particle to Particle collision count: 8922      Elapsed time: 3.998597
+Particle to Particle collision count: 8923      Elapsed time: 3.998990
+Particle to Particle collision count: 8924      Elapsed time: 3.999205
+Particle to Particle collision count: 8925      Elapsed time: 3.999372
+Particle to Particle collision count: 8926      Elapsed time: 3.999387
+Particle to Particle collision count: 8927      Elapsed time: 3.999705
+Particle to Particle collision count: 8928      Elapsed time: 3.999970
+Particle to Particle collision count: 8929      Elapsed time: 4.000526
+Particle to Particle collision count: 8930      Elapsed time: 4.000885
+Particle to Particle collision count: 8931      Elapsed time: 4.000990
+Particle to Particle collision count: 8932      Elapsed time: 4.001326
+Particle to Particle collision count: 8933      Elapsed time: 4.001569
+Particle to Particle collision count: 8934      Elapsed time: 4.001855
+Particle to Particle collision count: 8935      Elapsed time: 4.003138
+Particle to Particle collision count: 8936      Elapsed time: 4.003765
+Particle to Particle collision count: 8937      Elapsed time: 4.004515
+Particle to Particle collision count: 8938      Elapsed time: 4.005091
+Particle to Particle collision count: 8939      Elapsed time: 4.006491
+Particle to Particle collision count: 8940      Elapsed time: 4.006597
+Particle to Particle collision count: 8941      Elapsed time: 4.006835
+Particle to Particle collision count: 8942      Elapsed time: 4.007061
+Particle to Particle collision count: 8943      Elapsed time: 4.008817
+Particle to Particle collision count: 8944      Elapsed time: 4.009926
+Particle to Particle collision count: 8945      Elapsed time: 4.010047
+Particle to Particle collision count: 8946      Elapsed time: 4.010789
+Particle to Particle collision count: 8947      Elapsed time: 4.011323
+Particle to Particle collision count: 8948      Elapsed time: 4.011772
+Particle to Particle collision count: 8949      Elapsed time: 4.012382
+Particle to Particle collision count: 8950      Elapsed time: 4.012916
+Particle to Particle collision count: 8951      Elapsed time: 4.013878
+Particle to Particle collision count: 8952      Elapsed time: 4.014423
+Particle to Particle collision count: 8953      Elapsed time: 4.014570
+Particle to Particle collision count: 8954      Elapsed time: 4.015121
+Particle to Particle collision count: 8955      Elapsed time: 4.015305
+Particle to Particle collision count: 8956      Elapsed time: 4.016028
+Particle to Particle collision count: 8957      Elapsed time: 4.016107
+Particle to Particle collision count: 8958      Elapsed time: 4.016885
+Particle to Particle collision count: 8959      Elapsed time: 4.018409
+Particle to Particle collision count: 8960      Elapsed time: 4.018470
+Particle to Particle collision count: 8961      Elapsed time: 4.019136
+Particle to Particle collision count: 8962      Elapsed time: 4.020566
+Particle to Particle collision count: 8963      Elapsed time: 4.021110
+Particle to Particle collision count: 8964      Elapsed time: 4.021377
+Particle to Particle collision count: 8965      Elapsed time: 4.022290
+Particle to Particle collision count: 8966      Elapsed time: 4.022407
+Particle to Particle collision count: 8967      Elapsed time: 4.023115
+Particle to Particle collision count: 8968      Elapsed time: 4.024031
+Particle to Particle collision count: 8969      Elapsed time: 4.024271
+Particle to Particle collision count: 8970      Elapsed time: 4.024480
+Particle to Particle collision count: 8971      Elapsed time: 4.024895
+Particle to Particle collision count: 8972      Elapsed time: 4.026127
+Particle to Particle collision count: 8973      Elapsed time: 4.026720
+Particle to Particle collision count: 8974      Elapsed time: 4.027246
+Particle to Particle collision count: 8975      Elapsed time: 4.027670
+Particle to Particle collision count: 8976      Elapsed time: 4.027788
+Particle to Particle collision count: 8977      Elapsed time: 4.028315
+Particle to Particle collision count: 8978      Elapsed time: 4.028585
+Particle to Particle collision count: 8979      Elapsed time: 4.028681
+Particle to Particle collision count: 8980      Elapsed time: 4.029011
+Particle to Particle collision count: 8981      Elapsed time: 4.029273
+Particle to Particle collision count: 8982      Elapsed time: 4.029814
+Particle to Particle collision count: 8983      Elapsed time: 4.029856
+Particle to Particle collision count: 8984      Elapsed time: 4.030261
+Particle to Particle collision count: 8985      Elapsed time: 4.030614
+Particle to Particle collision count: 8986      Elapsed time: 4.030669
+Particle to Particle collision count: 8987      Elapsed time: 4.031168
+Particle to Particle collision count: 8988      Elapsed time: 4.032226
+Particle to Particle collision count: 8989      Elapsed time: 4.032348
+Particle to Particle collision count: 8990      Elapsed time: 4.032491
+Particle to Particle collision count: 8991      Elapsed time: 4.032849
+Particle to Particle collision count: 8992      Elapsed time: 4.034282
+Particle to Particle collision count: 8993      Elapsed time: 4.034539
+Particle to Particle collision count: 8994      Elapsed time: 4.035283
+Particle to Particle collision count: 8995      Elapsed time: 4.035392
+Particle to Particle collision count: 8996      Elapsed time: 4.035429
+Particle to Particle collision count: 8997      Elapsed time: 4.036334
+Particle to Particle collision count: 8998      Elapsed time: 4.036702
+Particle to Particle collision count: 8999      Elapsed time: 4.037248
+Particle to Particle collision count: 9000      Elapsed time: 4.038014
+Particle to Particle collision count: 9001      Elapsed time: 4.038039
+Particle to Particle collision count: 9002      Elapsed time: 4.038197
+Particle to Particle collision count: 9003      Elapsed time: 4.038581
+Particle to Particle collision count: 9004      Elapsed time: 4.038747
+Particle to Particle collision count: 9005      Elapsed time: 4.039084
+Particle to Particle collision count: 9006      Elapsed time: 4.039177
+Particle to Particle collision count: 9007      Elapsed time: 4.039429
+Particle to Particle collision count: 9008      Elapsed time: 4.040818
+Particle to Particle collision count: 9009      Elapsed time: 4.041059
+Particle to Particle collision count: 9010      Elapsed time: 4.041198
+Particle to Particle collision count: 9011      Elapsed time: 4.041454
+Particle to Particle collision count: 9012      Elapsed time: 4.043381
+Particle to Particle collision count: 9013      Elapsed time: 4.044019
+Particle to Particle collision count: 9014      Elapsed time: 4.044094
+Particle to Particle collision count: 9015      Elapsed time: 4.044507
+Particle to Particle collision count: 9016      Elapsed time: 4.045881
+Particle to Particle collision count: 9017      Elapsed time: 4.046137
+Particle to Particle collision count: 9018      Elapsed time: 4.046282
+Particle to Particle collision count: 9019      Elapsed time: 4.047747
+Particle to Particle collision count: 9020      Elapsed time: 4.047974
+Particle to Particle collision count: 9021      Elapsed time: 4.048994
+Particle to Particle collision count: 9022      Elapsed time: 4.049145
+Particle to Particle collision count: 9023      Elapsed time: 4.049401
+Particle to Particle collision count: 9024      Elapsed time: 4.049597
+Particle to Particle collision count: 9025      Elapsed time: 4.049902
+Particle to Particle collision count: 9026      Elapsed time: 4.050740
+Particle to Particle collision count: 9027      Elapsed time: 4.051119
+Particle to Particle collision count: 9028      Elapsed time: 4.051305
+Particle to Particle collision count: 9029      Elapsed time: 4.052495
+Particle to Particle collision count: 9030      Elapsed time: 4.055049
+Particle to Particle collision count: 9031      Elapsed time: 4.056128
+Particle to Particle collision count: 9032      Elapsed time: 4.056129
+Particle to Particle collision count: 9033      Elapsed time: 4.056150
+Particle to Particle collision count: 9034      Elapsed time: 4.056878
+Particle to Particle collision count: 9035      Elapsed time: 4.057486
+Particle to Particle collision count: 9036      Elapsed time: 4.057880
+Particle to Particle collision count: 9037      Elapsed time: 4.058065
+Particle to Particle collision count: 9038      Elapsed time: 4.058966
+Particle to Particle collision count: 9039      Elapsed time: 4.059123
+Particle to Particle collision count: 9040      Elapsed time: 4.059289
+Particle to Particle collision count: 9041      Elapsed time: 4.059628
+Particle to Particle collision count: 9042      Elapsed time: 4.059965
+Particle to Particle collision count: 9043      Elapsed time: 4.060197
+Particle to Particle collision count: 9044      Elapsed time: 4.060452
+Particle to Particle collision count: 9045      Elapsed time: 4.060591
+Particle to Particle collision count: 9046      Elapsed time: 4.060619
+Particle to Particle collision count: 9047      Elapsed time: 4.060819
+Particle to Particle collision count: 9048      Elapsed time: 4.061064
+Particle to Particle collision count: 9049      Elapsed time: 4.061442
+Particle to Particle collision count: 9050      Elapsed time: 4.061646
+Particle to Particle collision count: 9051      Elapsed time: 4.061826
+Particle to Particle collision count: 9052      Elapsed time: 4.062242
+Particle to Particle collision count: 9053      Elapsed time: 4.063237
+Particle to Particle collision count: 9054      Elapsed time: 4.063554
+Particle to Particle collision count: 9055      Elapsed time: 4.063600
+Particle to Particle collision count: 9056      Elapsed time: 4.064270
+Particle to Particle collision count: 9057      Elapsed time: 4.064663
+Particle to Particle collision count: 9058      Elapsed time: 4.064800
+Particle to Particle collision count: 9059      Elapsed time: 4.065175
+Particle to Particle collision count: 9060      Elapsed time: 4.065423
+Particle to Particle collision count: 9061      Elapsed time: 4.067942
+Particle to Particle collision count: 9062      Elapsed time: 4.068729
+Particle to Particle collision count: 9063      Elapsed time: 4.069371
+Particle to Particle collision count: 9064      Elapsed time: 4.069387
+Particle to Particle collision count: 9065      Elapsed time: 4.069753
+Particle to Particle collision count: 9066      Elapsed time: 4.070101
+Particle to Particle collision count: 9067      Elapsed time: 4.071199
+Particle to Particle collision count: 9068      Elapsed time: 4.071691
+Particle to Particle collision count: 9069      Elapsed time: 4.071701
+Particle to Particle collision count: 9070      Elapsed time: 4.071792
+Particle to Particle collision count: 9071      Elapsed time: 4.073015
+Particle to Particle collision count: 9072      Elapsed time: 4.073589
+Particle to Particle collision count: 9073      Elapsed time: 4.073908
+Particle to Particle collision count: 9074      Elapsed time: 4.073977
+Particle to Particle collision count: 9075      Elapsed time: 4.074037
+Particle to Particle collision count: 9076      Elapsed time: 4.074630
+Particle to Particle collision count: 9077      Elapsed time: 4.074782
+Particle to Particle collision count: 9078      Elapsed time: 4.075066
+Particle to Particle collision count: 9079      Elapsed time: 4.075496
+Particle to Particle collision count: 9080      Elapsed time: 4.076267
+Particle to Particle collision count: 9081      Elapsed time: 4.076916
+Particle to Particle collision count: 9082      Elapsed time: 4.079220
+Particle to Particle collision count: 9083      Elapsed time: 4.079380
+Particle to Particle collision count: 9084      Elapsed time: 4.081286
+Particle to Particle collision count: 9085      Elapsed time: 4.081772
+Particle to Particle collision count: 9086      Elapsed time: 4.081971
+Particle to Particle collision count: 9087      Elapsed time: 4.082106
+Particle to Particle collision count: 9088      Elapsed time: 4.083329
+Particle to Particle collision count: 9089      Elapsed time: 4.083329
+Particle to Particle collision count: 9090      Elapsed time: 4.083861
+Particle to Particle collision count: 9091      Elapsed time: 4.083889
+Particle to Particle collision count: 9092      Elapsed time: 4.084618
+Particle to Particle collision count: 9093      Elapsed time: 4.085450
+Particle to Particle collision count: 9094      Elapsed time: 4.085530
+Particle to Particle collision count: 9095      Elapsed time: 4.085874
+Particle to Particle collision count: 9096      Elapsed time: 4.086749
+Particle to Particle collision count: 9097      Elapsed time: 4.087850
+Particle to Particle collision count: 9098      Elapsed time: 4.088493
+Particle to Particle collision count: 9099      Elapsed time: 4.089571
+Particle to Particle collision count: 9100      Elapsed time: 4.090182
+Particle to Particle collision count: 9101      Elapsed time: 4.090288
+Particle to Particle collision count: 9102      Elapsed time: 4.092291
+Particle to Particle collision count: 9103      Elapsed time: 4.092927
+Particle to Particle collision count: 9104      Elapsed time: 4.093031
+Particle to Particle collision count: 9105      Elapsed time: 4.093641
+Particle to Particle collision count: 9106      Elapsed time: 4.094250
+Particle to Particle collision count: 9107      Elapsed time: 4.094329
+Particle to Particle collision count: 9108      Elapsed time: 4.094484
+Particle to Particle collision count: 9109      Elapsed time: 4.094558
+Particle to Particle collision count: 9110      Elapsed time: 4.094759
+Particle to Particle collision count: 9111      Elapsed time: 4.095064
+Particle to Particle collision count: 9112      Elapsed time: 4.095356
+Particle to Particle collision count: 9113      Elapsed time: 4.096074
+Particle to Particle collision count: 9114      Elapsed time: 4.099010
+Particle to Particle collision count: 9115      Elapsed time: 4.099346
+Particle to Particle collision count: 9116      Elapsed time: 4.099602
+Particle to Particle collision count: 9117      Elapsed time: 4.100564
+Particle to Particle collision count: 9118      Elapsed time: 4.100841
+Particle to Particle collision count: 9119      Elapsed time: 4.101304
+Particle to Particle collision count: 9120      Elapsed time: 4.102161
+Particle to Particle collision count: 9121      Elapsed time: 4.102245
+Particle to Particle collision count: 9122      Elapsed time: 4.102454
+Particle to Particle collision count: 9123      Elapsed time: 4.103223
+Particle to Particle collision count: 9124      Elapsed time: 4.104099
+Particle to Particle collision count: 9125      Elapsed time: 4.104429
+Particle to Particle collision count: 9126      Elapsed time: 4.104632
+Particle to Particle collision count: 9127      Elapsed time: 4.105434
+Particle to Particle collision count: 9128      Elapsed time: 4.105553
+Particle to Particle collision count: 9129      Elapsed time: 4.105639
+Particle to Particle collision count: 9130      Elapsed time: 4.106050
+Particle to Particle collision count: 9131      Elapsed time: 4.106641
+Particle to Particle collision count: 9132      Elapsed time: 4.107358
+Particle to Particle collision count: 9133      Elapsed time: 4.108058
+Particle to Particle collision count: 9134      Elapsed time: 4.108315
+Particle to Particle collision count: 9135      Elapsed time: 4.108851
+Particle to Particle collision count: 9136      Elapsed time: 4.109055
+Particle to Particle collision count: 9137      Elapsed time: 4.110079
+Particle to Particle collision count: 9138      Elapsed time: 4.110456
+Particle to Particle collision count: 9139      Elapsed time: 4.111511
+Particle to Particle collision count: 9140      Elapsed time: 4.111808
+Particle to Particle collision count: 9141      Elapsed time: 4.112396
+Particle to Particle collision count: 9142      Elapsed time: 4.112537
+Particle to Particle collision count: 9143      Elapsed time: 4.112668
+Particle to Particle collision count: 9144      Elapsed time: 4.112737
+Particle to Particle collision count: 9145      Elapsed time: 4.114262
+Particle to Particle collision count: 9146      Elapsed time: 4.114527
+Particle to Particle collision count: 9147      Elapsed time: 4.114824
+Particle to Particle collision count: 9148      Elapsed time: 4.115266
+Particle to Particle collision count: 9149      Elapsed time: 4.115868
+Particle to Particle collision count: 9150      Elapsed time: 4.116349
+Particle to Particle collision count: 9151      Elapsed time: 4.117309
+Particle to Particle collision count: 9152      Elapsed time: 4.117488
+Particle to Particle collision count: 9153      Elapsed time: 4.117610
+Particle to Particle collision count: 9154      Elapsed time: 4.117622
+Particle to Particle collision count: 9155      Elapsed time: 4.118749
+Particle to Particle collision count: 9156      Elapsed time: 4.119071
+Particle to Particle collision count: 9157      Elapsed time: 4.119307
+Particle to Particle collision count: 9158      Elapsed time: 4.119555
+Particle to Particle collision count: 9159      Elapsed time: 4.120281
+Particle to Particle collision count: 9160      Elapsed time: 4.120808
+Particle to Particle collision count: 9161      Elapsed time: 4.121345
+Particle to Particle collision count: 9162      Elapsed time: 4.121751
+Particle to Particle collision count: 9163      Elapsed time: 4.122180
+Particle to Particle collision count: 9164      Elapsed time: 4.122268
+Particle to Particle collision count: 9165      Elapsed time: 4.122537
+Particle to Particle collision count: 9166      Elapsed time: 4.123267
+Particle to Particle collision count: 9167      Elapsed time: 4.123625
+Particle to Particle collision count: 9168      Elapsed time: 4.123770
+Particle to Particle collision count: 9169      Elapsed time: 4.125065
+Particle to Particle collision count: 9170      Elapsed time: 4.125536
+Particle to Particle collision count: 9171      Elapsed time: 4.125565
+Particle to Particle collision count: 9172      Elapsed time: 4.126361
+Particle to Particle collision count: 9173      Elapsed time: 4.126538
+Particle to Particle collision count: 9174      Elapsed time: 4.127802
+Particle to Particle collision count: 9175      Elapsed time: 4.128067
+Particle to Particle collision count: 9176      Elapsed time: 4.128400
+Particle to Particle collision count: 9177      Elapsed time: 4.128569
+Particle to Particle collision count: 9178      Elapsed time: 4.128767
+Particle to Particle collision count: 9179      Elapsed time: 4.129633
+Particle to Particle collision count: 9180      Elapsed time: 4.130887
+Particle to Particle collision count: 9181      Elapsed time: 4.132184
+Particle to Particle collision count: 9182      Elapsed time: 4.132311
+Particle to Particle collision count: 9183      Elapsed time: 4.132634
+Particle to Particle collision count: 9184      Elapsed time: 4.133550
+Particle to Particle collision count: 9185      Elapsed time: 4.133750
+Particle to Particle collision count: 9186      Elapsed time: 4.134027
+Particle to Particle collision count: 9187      Elapsed time: 4.134777
+Particle to Particle collision count: 9188      Elapsed time: 4.134922
+Particle to Particle collision count: 9189      Elapsed time: 4.135194
+Particle to Particle collision count: 9190      Elapsed time: 4.136631
+Particle to Particle collision count: 9191      Elapsed time: 4.136741
+Particle to Particle collision count: 9192      Elapsed time: 4.137455
+Particle to Particle collision count: 9193      Elapsed time: 4.137882
+Particle to Particle collision count: 9194      Elapsed time: 4.138453
+Particle to Particle collision count: 9195      Elapsed time: 4.138465
+Particle to Particle collision count: 9196      Elapsed time: 4.138914
+Particle to Particle collision count: 9197      Elapsed time: 4.139665
+Particle to Particle collision count: 9198      Elapsed time: 4.139864
+Particle to Particle collision count: 9199      Elapsed time: 4.141176
+Particle to Particle collision count: 9200      Elapsed time: 4.141490
+Particle to Particle collision count: 9201      Elapsed time: 4.141932
+Particle to Particle collision count: 9202      Elapsed time: 4.141962
+Particle to Particle collision count: 9203      Elapsed time: 4.142575
+Particle to Particle collision count: 9204      Elapsed time: 4.143125
+Particle to Particle collision count: 9205      Elapsed time: 4.143174
+Particle to Particle collision count: 9206      Elapsed time: 4.143462
+Particle to Particle collision count: 9207      Elapsed time: 4.143718
+Particle to Particle collision count: 9208      Elapsed time: 4.144261
+Particle to Particle collision count: 9209      Elapsed time: 4.144636
+Particle to Particle collision count: 9210      Elapsed time: 4.144856
+Particle to Particle collision count: 9211      Elapsed time: 4.145853
+Particle to Particle collision count: 9212      Elapsed time: 4.146366
+Particle to Particle collision count: 9213      Elapsed time: 4.146486
+Particle to Particle collision count: 9214      Elapsed time: 4.146520
+Particle to Particle collision count: 9215      Elapsed time: 4.146986
+Particle to Particle collision count: 9216      Elapsed time: 4.147584
+Particle to Particle collision count: 9217      Elapsed time: 4.147629
+Particle to Particle collision count: 9218      Elapsed time: 4.147765
+Particle to Particle collision count: 9219      Elapsed time: 4.147842
+Particle to Particle collision count: 9220      Elapsed time: 4.148056
+Particle to Particle collision count: 9221      Elapsed time: 4.148121
+Particle to Particle collision count: 9222      Elapsed time: 4.148339
+Particle to Particle collision count: 9223      Elapsed time: 4.148356
+Particle to Particle collision count: 9224      Elapsed time: 4.149023
+Particle to Particle collision count: 9225      Elapsed time: 4.149971
+Particle to Particle collision count: 9226      Elapsed time: 4.150065
+Particle to Particle collision count: 9227      Elapsed time: 4.150073
+Particle to Particle collision count: 9228      Elapsed time: 4.150363
+Particle to Particle collision count: 9229      Elapsed time: 4.150635
+Particle to Particle collision count: 9230      Elapsed time: 4.150714
+Particle to Particle collision count: 9231      Elapsed time: 4.150933
+Particle to Particle collision count: 9232      Elapsed time: 4.152297
+Particle to Particle collision count: 9233      Elapsed time: 4.152546
+Particle to Particle collision count: 9234      Elapsed time: 4.152891
+Particle to Particle collision count: 9235      Elapsed time: 4.152898
+Particle to Particle collision count: 9236      Elapsed time: 4.153090
+Particle to Particle collision count: 9237      Elapsed time: 4.153184
+Particle to Particle collision count: 9238      Elapsed time: 4.153427
+Particle to Particle collision count: 9239      Elapsed time: 4.153478
+Particle to Particle collision count: 9240      Elapsed time: 4.153793
+Particle to Particle collision count: 9241      Elapsed time: 4.153814
+Particle to Particle collision count: 9242      Elapsed time: 4.154546
+Particle to Particle collision count: 9243      Elapsed time: 4.155448
+Particle to Particle collision count: 9244      Elapsed time: 4.155961
+Particle to Particle collision count: 9245      Elapsed time: 4.157032
+Particle to Particle collision count: 9246      Elapsed time: 4.157229
+Particle to Particle collision count: 9247      Elapsed time: 4.157438
+Particle to Particle collision count: 9248      Elapsed time: 4.157581
+Particle to Particle collision count: 9249      Elapsed time: 4.157609
+Particle to Particle collision count: 9250      Elapsed time: 4.157646
+Particle to Particle collision count: 9251      Elapsed time: 4.157871
+Particle to Particle collision count: 9252      Elapsed time: 4.159264
+Particle to Particle collision count: 9253      Elapsed time: 4.159313
+Particle to Particle collision count: 9254      Elapsed time: 4.159463
+Particle to Particle collision count: 9255      Elapsed time: 4.160178
+Particle to Particle collision count: 9256      Elapsed time: 4.160862
+Particle to Particle collision count: 9257      Elapsed time: 4.161822
+Particle to Particle collision count: 9258      Elapsed time: 4.162644
+Particle to Particle collision count: 9259      Elapsed time: 4.163331
+Particle to Particle collision count: 9260      Elapsed time: 4.163652
+Particle to Particle collision count: 9261      Elapsed time: 4.164284
+Particle to Particle collision count: 9262      Elapsed time: 4.164395
+Particle to Particle collision count: 9263      Elapsed time: 4.164726
+Particle to Particle collision count: 9264      Elapsed time: 4.165597
+Particle to Particle collision count: 9265      Elapsed time: 4.165637
+Particle to Particle collision count: 9266      Elapsed time: 4.166211
+Particle to Particle collision count: 9267      Elapsed time: 4.166570
+Particle to Particle collision count: 9268      Elapsed time: 4.167218
+Particle to Particle collision count: 9269      Elapsed time: 4.168102
+Particle to Particle collision count: 9270      Elapsed time: 4.168103
+Particle to Particle collision count: 9271      Elapsed time: 4.168179
+Particle to Particle collision count: 9272      Elapsed time: 4.168339
+Particle to Particle collision count: 9273      Elapsed time: 4.168806
+Particle to Particle collision count: 9274      Elapsed time: 4.169556
+Particle to Particle collision count: 9275      Elapsed time: 4.169856
+Particle to Particle collision count: 9276      Elapsed time: 4.170039
+Particle to Particle collision count: 9277      Elapsed time: 4.170375
+Particle to Particle collision count: 9278      Elapsed time: 4.170447
+Particle to Particle collision count: 9279      Elapsed time: 4.170496
+Particle to Particle collision count: 9280      Elapsed time: 4.170618
+Particle to Particle collision count: 9281      Elapsed time: 4.170993
+Particle to Particle collision count: 9282      Elapsed time: 4.171004
+Particle to Particle collision count: 9283      Elapsed time: 4.171615
+Particle to Particle collision count: 9284      Elapsed time: 4.171675
+Particle to Particle collision count: 9285      Elapsed time: 4.171719
+Particle to Particle collision count: 9286      Elapsed time: 4.171722
+Particle to Particle collision count: 9287      Elapsed time: 4.171812
+Particle to Particle collision count: 9288      Elapsed time: 4.171877
+Particle to Particle collision count: 9289      Elapsed time: 4.172534
+Particle to Particle collision count: 9290      Elapsed time: 4.172568
+Particle to Particle collision count: 9291      Elapsed time: 4.172849
+Particle to Particle collision count: 9292      Elapsed time: 4.173007
+Particle to Particle collision count: 9293      Elapsed time: 4.173765
+Particle to Particle collision count: 9294      Elapsed time: 4.174180
+Particle to Particle collision count: 9295      Elapsed time: 4.174422
+Particle to Particle collision count: 9296      Elapsed time: 4.174699
+Particle to Particle collision count: 9297      Elapsed time: 4.174832
+Particle to Particle collision count: 9298      Elapsed time: 4.175068
+Particle to Particle collision count: 9299      Elapsed time: 4.175331
+Particle to Particle collision count: 9300      Elapsed time: 4.175972
+Particle to Particle collision count: 9301      Elapsed time: 4.176846
+Particle to Particle collision count: 9302      Elapsed time: 4.177093
+Particle to Particle collision count: 9303      Elapsed time: 4.177157
+Particle to Particle collision count: 9304      Elapsed time: 4.177277
+Particle to Particle collision count: 9305      Elapsed time: 4.178118
+Particle to Particle collision count: 9306      Elapsed time: 4.178402
+Particle to Particle collision count: 9307      Elapsed time: 4.178446
+Particle to Particle collision count: 9308      Elapsed time: 4.178764
+Particle to Particle collision count: 9309      Elapsed time: 4.178909
+Particle to Particle collision count: 9310      Elapsed time: 4.178915
+Particle to Particle collision count: 9311      Elapsed time: 4.178994
+Particle to Particle collision count: 9312      Elapsed time: 4.179764
+Particle to Particle collision count: 9313      Elapsed time: 4.179891
+Particle to Particle collision count: 9314      Elapsed time: 4.179967
+Particle to Particle collision count: 9315      Elapsed time: 4.180253
+Particle to Particle collision count: 9316      Elapsed time: 4.180492
+Particle to Particle collision count: 9317      Elapsed time: 4.180996
+Particle to Particle collision count: 9318      Elapsed time: 4.181997
+Particle to Particle collision count: 9319      Elapsed time: 4.182244
+Particle to Particle collision count: 9320      Elapsed time: 4.183216
+Particle to Particle collision count: 9321      Elapsed time: 4.185390
+Particle to Particle collision count: 9322      Elapsed time: 4.185395
+Particle to Particle collision count: 9323      Elapsed time: 4.186175
+Particle to Particle collision count: 9324      Elapsed time: 4.186255
+Particle to Particle collision count: 9325      Elapsed time: 4.186281
+Particle to Particle collision count: 9326      Elapsed time: 4.186388
+Particle to Particle collision count: 9327      Elapsed time: 4.186604
+Particle to Particle collision count: 9328      Elapsed time: 4.187014
+Particle to Particle collision count: 9329      Elapsed time: 4.187275
+Particle to Particle collision count: 9330      Elapsed time: 4.187334
+Particle to Particle collision count: 9331      Elapsed time: 4.187548
+Particle to Particle collision count: 9332      Elapsed time: 4.187630
+Particle to Particle collision count: 9333      Elapsed time: 4.188030
+Particle to Particle collision count: 9334      Elapsed time: 4.188663
+Particle to Particle collision count: 9335      Elapsed time: 4.188676
+Particle to Particle collision count: 9336      Elapsed time: 4.188917
+Particle to Particle collision count: 9337      Elapsed time: 4.189469
+Particle to Particle collision count: 9338      Elapsed time: 4.189907
+Particle to Particle collision count: 9339      Elapsed time: 4.190434
+Particle to Particle collision count: 9340      Elapsed time: 4.191216
+Particle to Particle collision count: 9341      Elapsed time: 4.191627
+Particle to Particle collision count: 9342      Elapsed time: 4.192726
+Particle to Particle collision count: 9343      Elapsed time: 4.192779
+Particle to Particle collision count: 9344      Elapsed time: 4.193119
+Particle to Particle collision count: 9345      Elapsed time: 4.193272
+Particle to Particle collision count: 9346      Elapsed time: 4.193780
+Particle to Particle collision count: 9347      Elapsed time: 4.195146
+Particle to Particle collision count: 9348      Elapsed time: 4.195373
+Particle to Particle collision count: 9349      Elapsed time: 4.196627
+Particle to Particle collision count: 9350      Elapsed time: 4.196637
+Particle to Particle collision count: 9351      Elapsed time: 4.198540
+Particle to Particle collision count: 9352      Elapsed time: 4.198557
+Particle to Particle collision count: 9353      Elapsed time: 4.198672
+Particle to Particle collision count: 9354      Elapsed time: 4.199337
+Particle to Particle collision count: 9355      Elapsed time: 4.200216
+Particle to Particle collision count: 9356      Elapsed time: 4.200400
+Particle to Particle collision count: 9357      Elapsed time: 4.200904
+Particle to Particle collision count: 9358      Elapsed time: 4.201040
+Particle to Particle collision count: 9359      Elapsed time: 4.201578
+Particle to Particle collision count: 9360      Elapsed time: 4.201601
+Particle to Particle collision count: 9361      Elapsed time: 4.201726
+Particle to Particle collision count: 9362      Elapsed time: 4.201859
+Particle to Particle collision count: 9363      Elapsed time: 4.202009
+Particle to Particle collision count: 9364      Elapsed time: 4.202122
+Particle to Particle collision count: 9365      Elapsed time: 4.202591
+Particle to Particle collision count: 9366      Elapsed time: 4.202721
+Particle to Particle collision count: 9367      Elapsed time: 4.203526
+Particle to Particle collision count: 9368      Elapsed time: 4.204919
+Particle to Particle collision count: 9369      Elapsed time: 4.205341
+Particle to Particle collision count: 9370      Elapsed time: 4.205823
+Particle to Particle collision count: 9371      Elapsed time: 4.206103
+Particle to Particle collision count: 9372      Elapsed time: 4.206368
+Particle to Particle collision count: 9373      Elapsed time: 4.207355
+Particle to Particle collision count: 9374      Elapsed time: 4.207768
+Particle to Particle collision count: 9375      Elapsed time: 4.207917
+Particle to Particle collision count: 9376      Elapsed time: 4.209826
+Particle to Particle collision count: 9377      Elapsed time: 4.209853
+Particle to Particle collision count: 9378      Elapsed time: 4.209978
+Particle to Particle collision count: 9379      Elapsed time: 4.211098
+Particle to Particle collision count: 9380      Elapsed time: 4.211292
+Particle to Particle collision count: 9381      Elapsed time: 4.211933
+Particle to Particle collision count: 9382      Elapsed time: 4.212126
+Particle to Particle collision count: 9383      Elapsed time: 4.212570
+Particle to Particle collision count: 9384      Elapsed time: 4.212723
+Particle to Particle collision count: 9385      Elapsed time: 4.213253
+Particle to Particle collision count: 9386      Elapsed time: 4.213554
+Particle to Particle collision count: 9387      Elapsed time: 4.213863
+Particle to Particle collision count: 9388      Elapsed time: 4.213905
+Particle to Particle collision count: 9389      Elapsed time: 4.215514
+Particle to Particle collision count: 9390      Elapsed time: 4.215675
+Particle to Particle collision count: 9391      Elapsed time: 4.215860
+Particle to Particle collision count: 9392      Elapsed time: 4.217072
+Particle to Particle collision count: 9393      Elapsed time: 4.217282
+Particle to Particle collision count: 9394      Elapsed time: 4.217791
+Particle to Particle collision count: 9395      Elapsed time: 4.218105
+Particle to Particle collision count: 9396      Elapsed time: 4.218373
+Particle to Particle collision count: 9397      Elapsed time: 4.218436
+Particle to Particle collision count: 9398      Elapsed time: 4.219329
+Particle to Particle collision count: 9399      Elapsed time: 4.219682
+Particle to Particle collision count: 9400      Elapsed time: 4.220751
+Particle to Particle collision count: 9401      Elapsed time: 4.221313
+Particle to Particle collision count: 9402      Elapsed time: 4.221666
+Particle to Particle collision count: 9403      Elapsed time: 4.222094
+Particle to Particle collision count: 9404      Elapsed time: 4.222583
+Particle to Particle collision count: 9405      Elapsed time: 4.222832
+Particle to Particle collision count: 9406      Elapsed time: 4.222838
+Particle to Particle collision count: 9407      Elapsed time: 4.222848
+Particle to Particle collision count: 9408      Elapsed time: 4.223119
+Particle to Particle collision count: 9409      Elapsed time: 4.224274
+Particle to Particle collision count: 9410      Elapsed time: 4.224332
+Particle to Particle collision count: 9411      Elapsed time: 4.224630
+Particle to Particle collision count: 9412      Elapsed time: 4.224914
+Particle to Particle collision count: 9413      Elapsed time: 4.225843
+Particle to Particle collision count: 9414      Elapsed time: 4.226323
+Particle to Particle collision count: 9415      Elapsed time: 4.226932
+Particle to Particle collision count: 9416      Elapsed time: 4.227704
+Particle to Particle collision count: 9417      Elapsed time: 4.227766
+Particle to Particle collision count: 9418      Elapsed time: 4.227770
+Particle to Particle collision count: 9419      Elapsed time: 4.228580
+Particle to Particle collision count: 9420      Elapsed time: 4.228939
+Particle to Particle collision count: 9421      Elapsed time: 4.229141
+Particle to Particle collision count: 9422      Elapsed time: 4.229568
+Particle to Particle collision count: 9423      Elapsed time: 4.229639
+Particle to Particle collision count: 9424      Elapsed time: 4.229849
+Particle to Particle collision count: 9425      Elapsed time: 4.229964
+Particle to Particle collision count: 9426      Elapsed time: 4.230040
+Particle to Particle collision count: 9427      Elapsed time: 4.230765
+Particle to Particle collision count: 9428      Elapsed time: 4.230959
+Particle to Particle collision count: 9429      Elapsed time: 4.231687
+Particle to Particle collision count: 9430      Elapsed time: 4.231906
+Particle to Particle collision count: 9431      Elapsed time: 4.232911
+Particle to Particle collision count: 9432      Elapsed time: 4.233259
+Particle to Particle collision count: 9433      Elapsed time: 4.233360
+Particle to Particle collision count: 9434      Elapsed time: 4.233800
+Particle to Particle collision count: 9435      Elapsed time: 4.233903
+Particle to Particle collision count: 9436      Elapsed time: 4.233932
+Particle to Particle collision count: 9437      Elapsed time: 4.234306
+Particle to Particle collision count: 9438      Elapsed time: 4.234908
+Particle to Particle collision count: 9439      Elapsed time: 4.235877
+Particle to Particle collision count: 9440      Elapsed time: 4.236162
+Particle to Particle collision count: 9441      Elapsed time: 4.236302
+Particle to Particle collision count: 9442      Elapsed time: 4.237603
+Particle to Particle collision count: 9443      Elapsed time: 4.237847
+Particle to Particle collision count: 9444      Elapsed time: 4.238196
+Particle to Particle collision count: 9445      Elapsed time: 4.239116
+Particle to Particle collision count: 9446      Elapsed time: 4.239161
+Particle to Particle collision count: 9447      Elapsed time: 4.239249
+Particle to Particle collision count: 9448      Elapsed time: 4.240557
+Particle to Particle collision count: 9449      Elapsed time: 4.240973
+Particle to Particle collision count: 9450      Elapsed time: 4.241008
+Particle to Particle collision count: 9451      Elapsed time: 4.241157
+Particle to Particle collision count: 9452      Elapsed time: 4.241402
+Particle to Particle collision count: 9453      Elapsed time: 4.241428
+Particle to Particle collision count: 9454      Elapsed time: 4.241600
+Particle to Particle collision count: 9455      Elapsed time: 4.242500
+Particle to Particle collision count: 9456      Elapsed time: 4.244916
+Particle to Particle collision count: 9457      Elapsed time: 4.245713
+Particle to Particle collision count: 9458      Elapsed time: 4.245874
+Particle to Particle collision count: 9459      Elapsed time: 4.246044
+Particle to Particle collision count: 9460      Elapsed time: 4.246567
+Particle to Particle collision count: 9461      Elapsed time: 4.246599
+Particle to Particle collision count: 9462      Elapsed time: 4.247021
+Particle to Particle collision count: 9463      Elapsed time: 4.247836
+Particle to Particle collision count: 9464      Elapsed time: 4.248672
+Particle to Particle collision count: 9465      Elapsed time: 4.248826
+Particle to Particle collision count: 9466      Elapsed time: 4.249029
+Particle to Particle collision count: 9467      Elapsed time: 4.249392
+Particle to Particle collision count: 9468      Elapsed time: 4.250008
+Particle to Particle collision count: 9469      Elapsed time: 4.250466
+Particle to Particle collision count: 9470      Elapsed time: 4.251400
+Particle to Particle collision count: 9471      Elapsed time: 4.251458
+Particle to Particle collision count: 9472      Elapsed time: 4.251635
+Particle to Particle collision count: 9473      Elapsed time: 4.251674
+Particle to Particle collision count: 9474      Elapsed time: 4.252210
+Particle to Particle collision count: 9475      Elapsed time: 4.253354
+Particle to Particle collision count: 9476      Elapsed time: 4.253818
+Particle to Particle collision count: 9477      Elapsed time: 4.253994
+Particle to Particle collision count: 9478      Elapsed time: 4.254344
+Particle to Particle collision count: 9479      Elapsed time: 4.255263
+Particle to Particle collision count: 9480      Elapsed time: 4.255436
+Particle to Particle collision count: 9481      Elapsed time: 4.255448
+Particle to Particle collision count: 9482      Elapsed time: 4.255667
+Particle to Particle collision count: 9483      Elapsed time: 4.256050
+Particle to Particle collision count: 9484      Elapsed time: 4.256475
+Particle to Particle collision count: 9485      Elapsed time: 4.257443
+Particle to Particle collision count: 9486      Elapsed time: 4.257657
+Particle to Particle collision count: 9487      Elapsed time: 4.258516
+Particle to Particle collision count: 9488      Elapsed time: 4.259074
+Particle to Particle collision count: 9489      Elapsed time: 4.259250
+Particle to Particle collision count: 9490      Elapsed time: 4.260414
+Particle to Particle collision count: 9491      Elapsed time: 4.261007
+Particle to Particle collision count: 9492      Elapsed time: 4.261121
+Particle to Particle collision count: 9493      Elapsed time: 4.261386
+Particle to Particle collision count: 9494      Elapsed time: 4.261638
+Particle to Particle collision count: 9495      Elapsed time: 4.262255
+Particle to Particle collision count: 9496      Elapsed time: 4.262292
+Particle to Particle collision count: 9497      Elapsed time: 4.262556
+Particle to Particle collision count: 9498      Elapsed time: 4.262604
+Particle to Particle collision count: 9499      Elapsed time: 4.262826
+Particle to Particle collision count: 9500      Elapsed time: 4.262934
+Particle to Particle collision count: 9501      Elapsed time: 4.263068
+Particle to Particle collision count: 9502      Elapsed time: 4.264569
+Particle to Particle collision count: 9503      Elapsed time: 4.265226
+Particle to Particle collision count: 9504      Elapsed time: 4.265652
+Particle to Particle collision count: 9505      Elapsed time: 4.266198
+Particle to Particle collision count: 9506      Elapsed time: 4.266601
+Particle to Particle collision count: 9507      Elapsed time: 4.266992
+Particle to Particle collision count: 9508      Elapsed time: 4.267268
+Particle to Particle collision count: 9509      Elapsed time: 4.267488
+Particle to Particle collision count: 9510      Elapsed time: 4.267512
+Particle to Particle collision count: 9511      Elapsed time: 4.267960
+Particle to Particle collision count: 9512      Elapsed time: 4.268794
+Particle to Particle collision count: 9513      Elapsed time: 4.269553
+Particle to Particle collision count: 9514      Elapsed time: 4.269556
+Particle to Particle collision count: 9515      Elapsed time: 4.270034
+Particle to Particle collision count: 9516      Elapsed time: 4.270755
+Particle to Particle collision count: 9517      Elapsed time: 4.271950
+Particle to Particle collision count: 9518      Elapsed time: 4.272168
+Particle to Particle collision count: 9519      Elapsed time: 4.272305
+Particle to Particle collision count: 9520      Elapsed time: 4.272941
+Particle to Particle collision count: 9521      Elapsed time: 4.273315
+Particle to Particle collision count: 9522      Elapsed time: 4.273705
+Particle to Particle collision count: 9523      Elapsed time: 4.274387
+Particle to Particle collision count: 9524      Elapsed time: 4.275107
+Particle to Particle collision count: 9525      Elapsed time: 4.275933
+Particle to Particle collision count: 9526      Elapsed time: 4.276400
+Particle to Particle collision count: 9527      Elapsed time: 4.276436
+Particle to Particle collision count: 9528      Elapsed time: 4.276446
+Particle to Particle collision count: 9529      Elapsed time: 4.277118
+Particle to Particle collision count: 9530      Elapsed time: 4.277408
+Particle to Particle collision count: 9531      Elapsed time: 4.277544
+Particle to Particle collision count: 9532      Elapsed time: 4.277893
+Particle to Particle collision count: 9533      Elapsed time: 4.279332
+Particle to Particle collision count: 9534      Elapsed time: 4.279542
+Particle to Particle collision count: 9535      Elapsed time: 4.279727
+Particle to Particle collision count: 9536      Elapsed time: 4.279801
+Particle to Particle collision count: 9537      Elapsed time: 4.280398
+Particle to Particle collision count: 9538      Elapsed time: 4.280486
+Particle to Particle collision count: 9539      Elapsed time: 4.282066
+Particle to Particle collision count: 9540      Elapsed time: 4.282373
+Particle to Particle collision count: 9541      Elapsed time: 4.282582
+Particle to Particle collision count: 9542      Elapsed time: 4.284494
+Particle to Particle collision count: 9543      Elapsed time: 4.284846
+Particle to Particle collision count: 9544      Elapsed time: 4.285672
+Particle to Particle collision count: 9545      Elapsed time: 4.286137
+Particle to Particle collision count: 9546      Elapsed time: 4.286230
+Particle to Particle collision count: 9547      Elapsed time: 4.286626
+Particle to Particle collision count: 9548      Elapsed time: 4.286926
+Particle to Particle collision count: 9549      Elapsed time: 4.287584
+Particle to Particle collision count: 9550      Elapsed time: 4.287873
+Particle to Particle collision count: 9551      Elapsed time: 4.287899
+Particle to Particle collision count: 9552      Elapsed time: 4.288055
+Particle to Particle collision count: 9553      Elapsed time: 4.288802
+Particle to Particle collision count: 9554      Elapsed time: 4.289414
+Particle to Particle collision count: 9555      Elapsed time: 4.289756
+Particle to Particle collision count: 9556      Elapsed time: 4.290341
+Particle to Particle collision count: 9557      Elapsed time: 4.290752
+Particle to Particle collision count: 9558      Elapsed time: 4.291316
+Particle to Particle collision count: 9559      Elapsed time: 4.291345
+Particle to Particle collision count: 9560      Elapsed time: 4.292350
+Particle to Particle collision count: 9561      Elapsed time: 4.292376
+Particle to Particle collision count: 9562      Elapsed time: 4.293476
+Particle to Particle collision count: 9563      Elapsed time: 4.294432
+Particle to Particle collision count: 9564      Elapsed time: 4.294661
+Particle to Particle collision count: 9565      Elapsed time: 4.294775
+Particle to Particle collision count: 9566      Elapsed time: 4.295642
+Particle to Particle collision count: 9567      Elapsed time: 4.296087
+Particle to Particle collision count: 9568      Elapsed time: 4.296827
+Particle to Particle collision count: 9569      Elapsed time: 4.297166
+Particle to Particle collision count: 9570      Elapsed time: 4.297275
+Particle to Particle collision count: 9571      Elapsed time: 4.297524
+Particle to Particle collision count: 9572      Elapsed time: 4.298790
+Particle to Particle collision count: 9573      Elapsed time: 4.299167
+Particle to Particle collision count: 9574      Elapsed time: 4.299422
+Particle to Particle collision count: 9575      Elapsed time: 4.299734
+Particle to Particle collision count: 9576      Elapsed time: 4.300085
+Particle to Particle collision count: 9577      Elapsed time: 4.300511
+Particle to Particle collision count: 9578      Elapsed time: 4.300876
+Particle to Particle collision count: 9579      Elapsed time: 4.301322
+Particle to Particle collision count: 9580      Elapsed time: 4.301493
+Particle to Particle collision count: 9581      Elapsed time: 4.301684
+Particle to Particle collision count: 9582      Elapsed time: 4.301718
+Particle to Particle collision count: 9583      Elapsed time: 4.302573
+Particle to Particle collision count: 9584      Elapsed time: 4.302864
+Particle to Particle collision count: 9585      Elapsed time: 4.302953
+Particle to Particle collision count: 9586      Elapsed time: 4.303341
+Particle to Particle collision count: 9587      Elapsed time: 4.303654
+Particle to Particle collision count: 9588      Elapsed time: 4.304039
+Particle to Particle collision count: 9589      Elapsed time: 4.304074
+Particle to Particle collision count: 9590      Elapsed time: 4.304179
+Particle to Particle collision count: 9591      Elapsed time: 4.304224
+Particle to Particle collision count: 9592      Elapsed time: 4.304910
+Particle to Particle collision count: 9593      Elapsed time: 4.304949
+Particle to Particle collision count: 9594      Elapsed time: 4.305258
+Particle to Particle collision count: 9595      Elapsed time: 4.305666
+Particle to Particle collision count: 9596      Elapsed time: 4.306116
+Particle to Particle collision count: 9597      Elapsed time: 4.306295
+Particle to Particle collision count: 9598      Elapsed time: 4.306999
+Particle to Particle collision count: 9599      Elapsed time: 4.307050
+Particle to Particle collision count: 9600      Elapsed time: 4.307090
+Particle to Particle collision count: 9601      Elapsed time: 4.308035
+Particle to Particle collision count: 9602      Elapsed time: 4.309067
+Particle to Particle collision count: 9603      Elapsed time: 4.309828
+Particle to Particle collision count: 9604      Elapsed time: 4.310009
+Particle to Particle collision count: 9605      Elapsed time: 4.310196
+Particle to Particle collision count: 9606      Elapsed time: 4.311469
+Particle to Particle collision count: 9607      Elapsed time: 4.311706
+Particle to Particle collision count: 9608      Elapsed time: 4.311947
+Particle to Particle collision count: 9609      Elapsed time: 4.312477
+Particle to Particle collision count: 9610      Elapsed time: 4.312627
+Particle to Particle collision count: 9611      Elapsed time: 4.313382
+Particle to Particle collision count: 9612      Elapsed time: 4.313533
+Particle to Particle collision count: 9613      Elapsed time: 4.314407
+Particle to Particle collision count: 9614      Elapsed time: 4.314425
+Particle to Particle collision count: 9615      Elapsed time: 4.314561
+Particle to Particle collision count: 9616      Elapsed time: 4.314702
+Particle to Particle collision count: 9617      Elapsed time: 4.314891
+Particle to Particle collision count: 9618      Elapsed time: 4.315205
+Particle to Particle collision count: 9619      Elapsed time: 4.315528
+Particle to Particle collision count: 9620      Elapsed time: 4.315647
+Particle to Particle collision count: 9621      Elapsed time: 4.315768
+Particle to Particle collision count: 9622      Elapsed time: 4.316210
+Particle to Particle collision count: 9623      Elapsed time: 4.316629
+Particle to Particle collision count: 9624      Elapsed time: 4.317276
+Particle to Particle collision count: 9625      Elapsed time: 4.317585
+Particle to Particle collision count: 9626      Elapsed time: 4.317879
+Particle to Particle collision count: 9627      Elapsed time: 4.320064
+Particle to Particle collision count: 9628      Elapsed time: 4.320340
+Particle to Particle collision count: 9629      Elapsed time: 4.320941
+Particle to Particle collision count: 9630      Elapsed time: 4.321017
+Particle to Particle collision count: 9631      Elapsed time: 4.322084
+Particle to Particle collision count: 9632      Elapsed time: 4.322194
+Particle to Particle collision count: 9633      Elapsed time: 4.322558
+Particle to Particle collision count: 9634      Elapsed time: 4.322845
+Particle to Particle collision count: 9635      Elapsed time: 4.323008
+Particle to Particle collision count: 9636      Elapsed time: 4.323285
+Particle to Particle collision count: 9637      Elapsed time: 4.323291
+Particle to Particle collision count: 9638      Elapsed time: 4.323459
+Particle to Particle collision count: 9639      Elapsed time: 4.323646
+Particle to Particle collision count: 9640      Elapsed time: 4.324088
+Particle to Particle collision count: 9641      Elapsed time: 4.324829
+Particle to Particle collision count: 9642      Elapsed time: 4.325283
+Particle to Particle collision count: 9643      Elapsed time: 4.325315
+Particle to Particle collision count: 9644      Elapsed time: 4.325929
+Particle to Particle collision count: 9645      Elapsed time: 4.326407
+Particle to Particle collision count: 9646      Elapsed time: 4.327295
+Particle to Particle collision count: 9647      Elapsed time: 4.327479
+Particle to Particle collision count: 9648      Elapsed time: 4.327573
+Particle to Particle collision count: 9649      Elapsed time: 4.328435
+Particle to Particle collision count: 9650      Elapsed time: 4.328523
+Particle to Particle collision count: 9651      Elapsed time: 4.328547
+Particle to Particle collision count: 9652      Elapsed time: 4.328890
+Particle to Particle collision count: 9653      Elapsed time: 4.329264
+Particle to Particle collision count: 9654      Elapsed time: 4.329820
+Particle to Particle collision count: 9655      Elapsed time: 4.329921
+Particle to Particle collision count: 9656      Elapsed time: 4.330595
+Particle to Particle collision count: 9657      Elapsed time: 4.330707
+Particle to Particle collision count: 9658      Elapsed time: 4.331192
+Particle to Particle collision count: 9659      Elapsed time: 4.332367
+Particle to Particle collision count: 9660      Elapsed time: 4.333122
+Particle to Particle collision count: 9661      Elapsed time: 4.333311
+Particle to Particle collision count: 9662      Elapsed time: 4.334316
+Particle to Particle collision count: 9663      Elapsed time: 4.334894
+Particle to Particle collision count: 9664      Elapsed time: 4.335032
+Particle to Particle collision count: 9665      Elapsed time: 4.335140
+Particle to Particle collision count: 9666      Elapsed time: 4.336161
+Particle to Particle collision count: 9667      Elapsed time: 4.336825
+Particle to Particle collision count: 9668      Elapsed time: 4.337953
+Particle to Particle collision count: 9669      Elapsed time: 4.338348
+Particle to Particle collision count: 9670      Elapsed time: 4.339690
+Particle to Particle collision count: 9671      Elapsed time: 4.339759
+Particle to Particle collision count: 9672      Elapsed time: 4.339849
+Particle to Particle collision count: 9673      Elapsed time: 4.340109
+Particle to Particle collision count: 9674      Elapsed time: 4.340186
+Particle to Particle collision count: 9675      Elapsed time: 4.340850
+Particle to Particle collision count: 9676      Elapsed time: 4.341097
+Particle to Particle collision count: 9677      Elapsed time: 4.342098
+Particle to Particle collision count: 9678      Elapsed time: 4.342115
+Particle to Particle collision count: 9679      Elapsed time: 4.342517
+Particle to Particle collision count: 9680      Elapsed time: 4.342712
+Particle to Particle collision count: 9681      Elapsed time: 4.343821
+Particle to Particle collision count: 9682      Elapsed time: 4.344258
+Particle to Particle collision count: 9683      Elapsed time: 4.344582
+Particle to Particle collision count: 9684      Elapsed time: 4.345330
+Particle to Particle collision count: 9685      Elapsed time: 4.345954
+Particle to Particle collision count: 9686      Elapsed time: 4.346061
+Particle to Particle collision count: 9687      Elapsed time: 4.346700
+Particle to Particle collision count: 9688      Elapsed time: 4.347275
+Particle to Particle collision count: 9689      Elapsed time: 4.347424
+Particle to Particle collision count: 9690      Elapsed time: 4.347733
+Particle to Particle collision count: 9691      Elapsed time: 4.348070
+Particle to Particle collision count: 9692      Elapsed time: 4.348155
+Particle to Particle collision count: 9693      Elapsed time: 4.348270
+Particle to Particle collision count: 9694      Elapsed time: 4.348693
+Particle to Particle collision count: 9695      Elapsed time: 4.348953
+Particle to Particle collision count: 9696      Elapsed time: 4.349380
+Particle to Particle collision count: 9697      Elapsed time: 4.349649
+Particle to Particle collision count: 9698      Elapsed time: 4.349657
+Particle to Particle collision count: 9699      Elapsed time: 4.350016
+Particle to Particle collision count: 9700      Elapsed time: 4.350996
+Particle to Particle collision count: 9701      Elapsed time: 4.351103
+Particle to Particle collision count: 9702      Elapsed time: 4.351214
+Particle to Particle collision count: 9703      Elapsed time: 4.351957
+Particle to Particle collision count: 9704      Elapsed time: 4.352385
+Particle to Particle collision count: 9705      Elapsed time: 4.352442
+Particle to Particle collision count: 9706      Elapsed time: 4.352547
+Particle to Particle collision count: 9707      Elapsed time: 4.352799
+Particle to Particle collision count: 9708      Elapsed time: 4.353035
+Particle to Particle collision count: 9709      Elapsed time: 4.353352
+Particle to Particle collision count: 9710      Elapsed time: 4.353898
+Particle to Particle collision count: 9711      Elapsed time: 4.354058
+Particle to Particle collision count: 9712      Elapsed time: 4.355315
+Particle to Particle collision count: 9713      Elapsed time: 4.355805
+Particle to Particle collision count: 9714      Elapsed time: 4.356469
+Particle to Particle collision count: 9715      Elapsed time: 4.357078
+Particle to Particle collision count: 9716      Elapsed time: 4.357657
+Particle to Particle collision count: 9717      Elapsed time: 4.357659
+Particle to Particle collision count: 9718      Elapsed time: 4.357989
+Particle to Particle collision count: 9719      Elapsed time: 4.358021
+Particle to Particle collision count: 9720      Elapsed time: 4.358888
+Particle to Particle collision count: 9721      Elapsed time: 4.358913
+Particle to Particle collision count: 9722      Elapsed time: 4.359418
+Particle to Particle collision count: 9723      Elapsed time: 4.360436
+Particle to Particle collision count: 9724      Elapsed time: 4.360627
+Particle to Particle collision count: 9725      Elapsed time: 4.360893
+Particle to Particle collision count: 9726      Elapsed time: 4.360948
+Particle to Particle collision count: 9727      Elapsed time: 4.361810
+Particle to Particle collision count: 9728      Elapsed time: 4.362021
+Particle to Particle collision count: 9729      Elapsed time: 4.362381
+Particle to Particle collision count: 9730      Elapsed time: 4.362623
+Particle to Particle collision count: 9731      Elapsed time: 4.362821
+Particle to Particle collision count: 9732      Elapsed time: 4.362995
+Particle to Particle collision count: 9733      Elapsed time: 4.363503
+Particle to Particle collision count: 9734      Elapsed time: 4.363689
+Particle to Particle collision count: 9735      Elapsed time: 4.364006
+Particle to Particle collision count: 9736      Elapsed time: 4.364554
+Particle to Particle collision count: 9737      Elapsed time: 4.364747
+Particle to Particle collision count: 9738      Elapsed time: 4.364935
+Particle to Particle collision count: 9739      Elapsed time: 4.365126
+Particle to Particle collision count: 9740      Elapsed time: 4.365294
+Particle to Particle collision count: 9741      Elapsed time: 4.365501
+Particle to Particle collision count: 9742      Elapsed time: 4.365551
+Particle to Particle collision count: 9743      Elapsed time: 4.365572
+Particle to Particle collision count: 9744      Elapsed time: 4.365806
+Particle to Particle collision count: 9745      Elapsed time: 4.367223
+Particle to Particle collision count: 9746      Elapsed time: 4.369521
+Particle to Particle collision count: 9747      Elapsed time: 4.369759
+Particle to Particle collision count: 9748      Elapsed time: 4.369872
+Particle to Particle collision count: 9749      Elapsed time: 4.370310
+Particle to Particle collision count: 9750      Elapsed time: 4.370845
+Particle to Particle collision count: 9751      Elapsed time: 4.371552
+Particle to Particle collision count: 9752      Elapsed time: 4.372004
+Particle to Particle collision count: 9753      Elapsed time: 4.372060
+Particle to Particle collision count: 9754      Elapsed time: 4.372967
+Particle to Particle collision count: 9755      Elapsed time: 4.373026
+Particle to Particle collision count: 9756      Elapsed time: 4.373252
+Particle to Particle collision count: 9757      Elapsed time: 4.373301
+Particle to Particle collision count: 9758      Elapsed time: 4.373886
+Particle to Particle collision count: 9759      Elapsed time: 4.374533
+Particle to Particle collision count: 9760      Elapsed time: 4.375029
+Particle to Particle collision count: 9761      Elapsed time: 4.375050
+Particle to Particle collision count: 9762      Elapsed time: 4.375124
+Particle to Particle collision count: 9763      Elapsed time: 4.376348
+Particle to Particle collision count: 9764      Elapsed time: 4.376884
+Particle to Particle collision count: 9765      Elapsed time: 4.377160
+Particle to Particle collision count: 9766      Elapsed time: 4.377423
+Particle to Particle collision count: 9767      Elapsed time: 4.378172
+Particle to Particle collision count: 9768      Elapsed time: 4.378495
+Particle to Particle collision count: 9769      Elapsed time: 4.378936
+Particle to Particle collision count: 9770      Elapsed time: 4.379828
+Particle to Particle collision count: 9771      Elapsed time: 4.379915
+Particle to Particle collision count: 9772      Elapsed time: 4.379995
+Particle to Particle collision count: 9773      Elapsed time: 4.380273
+Particle to Particle collision count: 9774      Elapsed time: 4.380782
+Particle to Particle collision count: 9775      Elapsed time: 4.380979
+Particle to Particle collision count: 9776      Elapsed time: 4.381215
+Particle to Particle collision count: 9777      Elapsed time: 4.382249
+Particle to Particle collision count: 9778      Elapsed time: 4.382264
+Particle to Particle collision count: 9779      Elapsed time: 4.383398
+Particle to Particle collision count: 9780      Elapsed time: 4.383462
+Particle to Particle collision count: 9781      Elapsed time: 4.383839
+Particle to Particle collision count: 9782      Elapsed time: 4.384119
+Particle to Particle collision count: 9783      Elapsed time: 4.384532
+Particle to Particle collision count: 9784      Elapsed time: 4.385303
+Particle to Particle collision count: 9785      Elapsed time: 4.385330
+Particle to Particle collision count: 9786      Elapsed time: 4.385923
+Particle to Particle collision count: 9787      Elapsed time: 4.386354
+Particle to Particle collision count: 9788      Elapsed time: 4.386919
+Particle to Particle collision count: 9789      Elapsed time: 4.387126
+Particle to Particle collision count: 9790      Elapsed time: 4.387491
+Particle to Particle collision count: 9791      Elapsed time: 4.387505
+Particle to Particle collision count: 9792      Elapsed time: 4.387823
+Particle to Particle collision count: 9793      Elapsed time: 4.388064
+Particle to Particle collision count: 9794      Elapsed time: 4.388303
+Particle to Particle collision count: 9795      Elapsed time: 4.389229
+Particle to Particle collision count: 9796      Elapsed time: 4.390687
+Particle to Particle collision count: 9797      Elapsed time: 4.391134
+Particle to Particle collision count: 9798      Elapsed time: 4.391877
+Particle to Particle collision count: 9799      Elapsed time: 4.392045
+Particle to Particle collision count: 9800      Elapsed time: 4.392292
+Particle to Particle collision count: 9801      Elapsed time: 4.392763
+Particle to Particle collision count: 9802      Elapsed time: 4.392859
+Particle to Particle collision count: 9803      Elapsed time: 4.393032
+Particle to Particle collision count: 9804      Elapsed time: 4.393057
+Particle to Particle collision count: 9805      Elapsed time: 4.393176
+Particle to Particle collision count: 9806      Elapsed time: 4.393203
+Particle to Particle collision count: 9807      Elapsed time: 4.393385
+Particle to Particle collision count: 9808      Elapsed time: 4.393556
+Particle to Particle collision count: 9809      Elapsed time: 4.393596
+Particle to Particle collision count: 9810      Elapsed time: 4.393636
+Particle to Particle collision count: 9811      Elapsed time: 4.393748
+Particle to Particle collision count: 9812      Elapsed time: 4.394682
+Particle to Particle collision count: 9813      Elapsed time: 4.394956
+Particle to Particle collision count: 9814      Elapsed time: 4.395336
+Particle to Particle collision count: 9815      Elapsed time: 4.395789
+Particle to Particle collision count: 9816      Elapsed time: 4.396815
+Particle to Particle collision count: 9817      Elapsed time: 4.396827
+Particle to Particle collision count: 9818      Elapsed time: 4.397319
+Particle to Particle collision count: 9819      Elapsed time: 4.397749
+Particle to Particle collision count: 9820      Elapsed time: 4.398561
+Particle to Particle collision count: 9821      Elapsed time: 4.398826
+Particle to Particle collision count: 9822      Elapsed time: 4.398907
+Particle to Particle collision count: 9823      Elapsed time: 4.399166
+Particle to Particle collision count: 9824      Elapsed time: 4.399418
+Particle to Particle collision count: 9825      Elapsed time: 4.399430
+Particle to Particle collision count: 9826      Elapsed time: 4.400036
+Particle to Particle collision count: 9827      Elapsed time: 4.400059
+Particle to Particle collision count: 9828      Elapsed time: 4.400573
+Particle to Particle collision count: 9829      Elapsed time: 4.401026
+Particle to Particle collision count: 9830      Elapsed time: 4.401895
+Particle to Particle collision count: 9831      Elapsed time: 4.402339
+Particle to Particle collision count: 9832      Elapsed time: 4.402367
+Particle to Particle collision count: 9833      Elapsed time: 4.402988
+Particle to Particle collision count: 9834      Elapsed time: 4.403480
+Particle to Particle collision count: 9835      Elapsed time: 4.404109
+Particle to Particle collision count: 9836      Elapsed time: 4.404180
+Particle to Particle collision count: 9837      Elapsed time: 4.404514
+Particle to Particle collision count: 9838      Elapsed time: 4.405036
+Particle to Particle collision count: 9839      Elapsed time: 4.405622
+Particle to Particle collision count: 9840      Elapsed time: 4.406017
+Particle to Particle collision count: 9841      Elapsed time: 4.406980
+Particle to Particle collision count: 9842      Elapsed time: 4.407400
+Particle to Particle collision count: 9843      Elapsed time: 4.408035
+Particle to Particle collision count: 9844      Elapsed time: 4.408163
+Particle to Particle collision count: 9845      Elapsed time: 4.408164
+Particle to Particle collision count: 9846      Elapsed time: 4.408720
+Particle to Particle collision count: 9847      Elapsed time: 4.408968
+Particle to Particle collision count: 9848      Elapsed time: 4.409099
+Particle to Particle collision count: 9849      Elapsed time: 4.409314
+Particle to Particle collision count: 9850      Elapsed time: 4.409423
+Particle to Particle collision count: 9851      Elapsed time: 4.409766
+Particle to Particle collision count: 9852      Elapsed time: 4.410168
+Particle to Particle collision count: 9853      Elapsed time: 4.410486
+Particle to Particle collision count: 9854      Elapsed time: 4.410516
+Particle to Particle collision count: 9855      Elapsed time: 4.410902
+Particle to Particle collision count: 9856      Elapsed time: 4.411397
+Particle to Particle collision count: 9857      Elapsed time: 4.411458
+Particle to Particle collision count: 9858      Elapsed time: 4.412282
+Particle to Particle collision count: 9859      Elapsed time: 4.412358
+Particle to Particle collision count: 9860      Elapsed time: 4.412709
+Particle to Particle collision count: 9861      Elapsed time: 4.413947
+Particle to Particle collision count: 9862      Elapsed time: 4.414342
+Particle to Particle collision count: 9863      Elapsed time: 4.414912
+Particle to Particle collision count: 9864      Elapsed time: 4.415425
+Particle to Particle collision count: 9865      Elapsed time: 4.415610
+Particle to Particle collision count: 9866      Elapsed time: 4.415735
+Particle to Particle collision count: 9867      Elapsed time: 4.416310
+Particle to Particle collision count: 9868      Elapsed time: 4.416982
+Particle to Particle collision count: 9869      Elapsed time: 4.417036
+Particle to Particle collision count: 9870      Elapsed time: 4.417231
+Particle to Particle collision count: 9871      Elapsed time: 4.417260
+Particle to Particle collision count: 9872      Elapsed time: 4.417968
+Particle to Particle collision count: 9873      Elapsed time: 4.418103
+Particle to Particle collision count: 9874      Elapsed time: 4.418828
+Particle to Particle collision count: 9875      Elapsed time: 4.419322
+Particle to Particle collision count: 9876      Elapsed time: 4.419826
+Particle to Particle collision count: 9877      Elapsed time: 4.420679
+Particle to Particle collision count: 9878      Elapsed time: 4.422439
+Particle to Particle collision count: 9879      Elapsed time: 4.422991
+Particle to Particle collision count: 9880      Elapsed time: 4.423883
+Particle to Particle collision count: 9881      Elapsed time: 4.424104
+Particle to Particle collision count: 9882      Elapsed time: 4.424111
+Particle to Particle collision count: 9883      Elapsed time: 4.424224
+Particle to Particle collision count: 9884      Elapsed time: 4.424870
+Particle to Particle collision count: 9885      Elapsed time: 4.425115
+Particle to Particle collision count: 9886      Elapsed time: 4.425293
+Particle to Particle collision count: 9887      Elapsed time: 4.425342
+Particle to Particle collision count: 9888      Elapsed time: 4.425386
+Particle to Particle collision count: 9889      Elapsed time: 4.426163
+Particle to Particle collision count: 9890      Elapsed time: 4.426263
+Particle to Particle collision count: 9891      Elapsed time: 4.426478
+Particle to Particle collision count: 9892      Elapsed time: 4.426730
+Particle to Particle collision count: 9893      Elapsed time: 4.426937
+Particle to Particle collision count: 9894      Elapsed time: 4.427294
+Particle to Particle collision count: 9895      Elapsed time: 4.427867
+Particle to Particle collision count: 9896      Elapsed time: 4.428982
+Particle to Particle collision count: 9897      Elapsed time: 4.429334
+Particle to Particle collision count: 9898      Elapsed time: 4.429557
+Particle to Particle collision count: 9899      Elapsed time: 4.430637
+Particle to Particle collision count: 9900      Elapsed time: 4.431095
+Particle to Particle collision count: 9901      Elapsed time: 4.432425
+Particle to Particle collision count: 9902      Elapsed time: 4.432438
+Particle to Particle collision count: 9903      Elapsed time: 4.432575
+Particle to Particle collision count: 9904      Elapsed time: 4.433231
+Particle to Particle collision count: 9905      Elapsed time: 4.433284
+Particle to Particle collision count: 9906      Elapsed time: 4.433517
+Particle to Particle collision count: 9907      Elapsed time: 4.433904
+Particle to Particle collision count: 9908      Elapsed time: 4.434171
+Particle to Particle collision count: 9909      Elapsed time: 4.434203
+Particle to Particle collision count: 9910      Elapsed time: 4.434211
+Particle to Particle collision count: 9911      Elapsed time: 4.434632
+Particle to Particle collision count: 9912      Elapsed time: 4.435635
+Particle to Particle collision count: 9913      Elapsed time: 4.435740
+Particle to Particle collision count: 9914      Elapsed time: 4.435788
+Particle to Particle collision count: 9915      Elapsed time: 4.436677
+Particle to Particle collision count: 9916      Elapsed time: 4.437052
+Particle to Particle collision count: 9917      Elapsed time: 4.438600
+Particle to Particle collision count: 9918      Elapsed time: 4.439089
+Particle to Particle collision count: 9919      Elapsed time: 4.439468
+Particle to Particle collision count: 9920      Elapsed time: 4.439690
+Particle to Particle collision count: 9921      Elapsed time: 4.440912
+Particle to Particle collision count: 9922      Elapsed time: 4.441099
+Particle to Particle collision count: 9923      Elapsed time: 4.441425
+Particle to Particle collision count: 9924      Elapsed time: 4.441809
+Particle to Particle collision count: 9925      Elapsed time: 4.441938
+Particle to Particle collision count: 9926      Elapsed time: 4.442249
+Particle to Particle collision count: 9927      Elapsed time: 4.442648
+Particle to Particle collision count: 9928      Elapsed time: 4.443657
+Particle to Particle collision count: 9929      Elapsed time: 4.444068
+Particle to Particle collision count: 9930      Elapsed time: 4.444629
+Particle to Particle collision count: 9931      Elapsed time: 4.444845
+Particle to Particle collision count: 9932      Elapsed time: 4.445047
+Particle to Particle collision count: 9933      Elapsed time: 4.446450
+Particle to Particle collision count: 9934      Elapsed time: 4.447246
+Particle to Particle collision count: 9935      Elapsed time: 4.447599
+Particle to Particle collision count: 9936      Elapsed time: 4.448647
+Particle to Particle collision count: 9937      Elapsed time: 4.448649
+Particle to Particle collision count: 9938      Elapsed time: 4.448755
+Particle to Particle collision count: 9939      Elapsed time: 4.449611
+Particle to Particle collision count: 9940      Elapsed time: 4.449625
+Particle to Particle collision count: 9941      Elapsed time: 4.449715
+Particle to Particle collision count: 9942      Elapsed time: 4.450625
+Particle to Particle collision count: 9943      Elapsed time: 4.451766
+Particle to Particle collision count: 9944      Elapsed time: 4.452003
+Particle to Particle collision count: 9945      Elapsed time: 4.452357
+Particle to Particle collision count: 9946      Elapsed time: 4.453098
+Particle to Particle collision count: 9947      Elapsed time: 4.453713
+Particle to Particle collision count: 9948      Elapsed time: 4.453788
+Particle to Particle collision count: 9949      Elapsed time: 4.454023
+Particle to Particle collision count: 9950      Elapsed time: 4.454079
+Particle to Particle collision count: 9951      Elapsed time: 4.454634
+Particle to Particle collision count: 9952      Elapsed time: 4.454785
+Particle to Particle collision count: 9953      Elapsed time: 4.455947
+Particle to Particle collision count: 9954      Elapsed time: 4.456634
+Particle to Particle collision count: 9955      Elapsed time: 4.456768
+Particle to Particle collision count: 9956      Elapsed time: 4.458759
+Particle to Particle collision count: 9957      Elapsed time: 4.458965
+Particle to Particle collision count: 9958      Elapsed time: 4.459085
+Particle to Particle collision count: 9959      Elapsed time: 4.459506
+Particle to Particle collision count: 9960      Elapsed time: 4.459574
+Particle to Particle collision count: 9961      Elapsed time: 4.459846
+Particle to Particle collision count: 9962      Elapsed time: 4.460719
+Particle to Particle collision count: 9963      Elapsed time: 4.461179
+Particle to Particle collision count: 9964      Elapsed time: 4.461461
+Particle to Particle collision count: 9965      Elapsed time: 4.461606
+Particle to Particle collision count: 9966      Elapsed time: 4.462009
+Particle to Particle collision count: 9967      Elapsed time: 4.462745
+Particle to Particle collision count: 9968      Elapsed time: 4.462986
+Particle to Particle collision count: 9969      Elapsed time: 4.464179
+Particle to Particle collision count: 9970      Elapsed time: 4.464442
+Particle to Particle collision count: 9971      Elapsed time: 4.464631
+Particle to Particle collision count: 9972      Elapsed time: 4.464761
+Particle to Particle collision count: 9973      Elapsed time: 4.464844
+Particle to Particle collision count: 9974      Elapsed time: 4.464949
+Particle to Particle collision count: 9975      Elapsed time: 4.465552
+Particle to Particle collision count: 9976      Elapsed time: 4.465737
+Particle to Particle collision count: 9977      Elapsed time: 4.466495
+Particle to Particle collision count: 9978      Elapsed time: 4.466547
+Particle to Particle collision count: 9979      Elapsed time: 4.466913
+Particle to Particle collision count: 9980      Elapsed time: 4.467183
+Particle to Particle collision count: 9981      Elapsed time: 4.467275
+Particle to Particle collision count: 9982      Elapsed time: 4.467281
+Particle to Particle collision count: 9983      Elapsed time: 4.467364
+Particle to Particle collision count: 9984      Elapsed time: 4.468052
+Particle to Particle collision count: 9985      Elapsed time: 4.468422
+Particle to Particle collision count: 9986      Elapsed time: 4.469661
+Particle to Particle collision count: 9987      Elapsed time: 4.470046
+Particle to Particle collision count: 9988      Elapsed time: 4.470209
+Particle to Particle collision count: 9989      Elapsed time: 4.470418
+Particle to Particle collision count: 9990      Elapsed time: 4.470879
+Particle to Particle collision count: 9991      Elapsed time: 4.471361
+Particle to Particle collision count: 9992      Elapsed time: 4.471443
+Particle to Particle collision count: 9993      Elapsed time: 4.472654
+Particle to Particle collision count: 9994      Elapsed time: 4.473121
+Particle to Particle collision count: 9995      Elapsed time: 4.473165
+Particle to Particle collision count: 9996      Elapsed time: 4.473242
+Particle to Particle collision count: 9997      Elapsed time: 4.473638
+Particle to Particle collision count: 9998      Elapsed time: 4.473979
+Particle to Particle collision count: 9999      Elapsed time: 4.474039
+Particle to Particle collision count: 10000     Elapsed time: 4.474068
+1990.877319
+1397.770993
+2224.175690
+3500.534673
+1890.798839
+4151.479977
+4259.959389
+3244.102033
+2622.618825
+3367.290305
+2350.541852
+1681.307081
+5448.072320
+2336.783687
+2235.713980
+1531.523996
+2474.714226
+3701.147119
+1350.715088
+1649.703307
+2796.977565
+1530.390146
+2870.061672
+3634.713744
+2420.081817
+3318.052592
+3469.099739
+1607.779136
+1753.369114
+3229.997988
+2780.782534
+1691.573084
+2455.510843
+3077.612386
+676.075000
+1299.456810
+2618.987018
+2356.618870
+1776.045959
+549.559113
+2029.333942
+2431.469412
+876.140542
+4838.256297
+2616.919754
+2700.177031
+1275.452322
+746.971176
+2564.941130
+3916.962599
+5278.595647
+2636.219452
+3188.936813
+774.955926
+2537.775108
+1545.115206
+748.259439
+2256.385384
+2447.842009
+2608.211073
+2847.748058
+4379.159052
+1876.991010
+3193.623334
+3779.939682
+2525.577558
+4828.859700
+1172.657612
+1108.443672
+1054.737882
+811.769287
+1245.319387
+2664.426205
+1890.373905
+2536.092270
+1457.184443
+1316.108658
+3178.921987
+3612.445432
+1623.034735
+1525.140731
+3907.943705
+1720.761169
+1826.161548
+1895.772534
+2600.041634
+3112.864758
+307.741686
+1289.507513
+874.106437
+2659.780724
+2773.243859
+2655.176642
+490.108502
+3506.331131
+3894.257824
+2805.427686
+2260.222555
+2768.540771
+1840.212895
+1879.684149
+2128.541285
+2768.664750
+1516.876890
+3928.604332
+2972.020525
+746.654204
+2027.813354
+454.729384
+3767.119987
+958.347047
+1354.281775
+2535.520164
+3355.019374
+1158.100168
+2407.751856
+858.252658
+1572.002704
+1330.601133
+2405.618631
+2723.682158
+3160.858428
+1229.199384
+871.526534
+4222.451421
+3603.952136
+6555.971019
+1455.420214
+2059.697551
+4023.730234
+2195.437997
+2635.797887
+4003.780214
+1807.980365
+4515.321915
+3582.065884
+2821.244052
+2039.406225
+3074.492153
+2239.514233
+2390.795683
+1741.126144
+3458.080682
+4179.607398
+1922.930446
+2694.843409
+2271.835711
+2086.705418
+816.818370
+1960.781031
+1537.976268
+1261.858748
+341.925430
+2446.365365
+2864.416345
+1912.017652
+1681.010857
+2425.087009
+1916.421796
+2031.496000
+1946.908318
+1601.808509
+1760.427079
+2546.215427
+849.373188
+3928.533441
+3204.258261
+1979.352167
+2196.124086
+3049.950164
+2164.383284
+1372.284409
+1724.036180
+1567.317932
+3405.790070
+3948.840463
+421.862574
+1612.841282
+3421.349880
+1826.679159
+5569.320964
+4175.112454
+4704.107992
+2106.155028
+2287.725071
+820.973622
+2652.741412
+466.576863
+2282.868809
+1268.205277
+4672.024187
+2436.736547
+1211.981436
+2925.814417
+1363.211191
+686.897622
+1493.012893
+2259.663913
+1521.125241
+1471.293309
+2519.186674
+3468.418948
+2501.008597
+2608.236186
+2329.201473
+2019.382455
+2180.122015
+2891.515693
+2829.555619
+2229.670716
+3117.962476
+1681.423876
+3164.825746
+2690.367726
+2877.336789
+2568.474158
+2654.092877
+2604.425272
+2188.709323
+2489.576470
+2882.915625
+3459.768200
+2281.269383
+3225.710309
+1063.669415
+2952.963427
+2005.707481
+1874.651501
+3830.061357
+4527.207528
+913.602827
+2376.330364
+2134.061503
+3060.059803
+1108.474458
+3529.194101
+1820.568249
+3852.352009
+2233.409613
+1255.084360
+3095.422427
+3392.557737
+2281.488220
+1553.419454
+2064.983051
+3648.907234
+1162.003227
+1010.282788
+2819.629674
+2906.970416
+674.486402
+2284.251081
+2308.925399
+1913.351052
+2828.601951
+3003.160835
+1899.374107
+2539.876080
+1765.122800
+2691.296435
+3646.221332
+2186.305217
+3967.763854
+1525.644372
+1314.990589
+2545.893262
+2449.148423
+2355.472246
+1559.894868
+3256.944120
+1679.290698
+959.466942
+2293.410125
+2183.674770
+3929.279959
+2284.249658
+3002.961205
+1728.229875
+2928.087430
+3382.188936
+2262.765123
+2292.625569
+970.979402
+396.023831
+2165.668488
+4806.743596
+2232.612483
+3654.106731
+3264.601507
+2678.049477
+3851.002467
+2599.976538
+3276.181008
+3351.373450
+2123.675823
+2186.816750
+3164.405631
+432.623826
+3016.701510
+2078.089267
+3351.216197
+1622.856972
+2538.756782
+2420.321776
+1241.332651
+2800.303287
+478.659228
+2217.289111
+3191.350811
+2671.119896
+1619.210379
+3079.234483
+3140.712817
+2761.532093
+3022.898940
+3608.012611
+1971.444648
+3319.140702
+2060.851159
+3750.448373
+3848.644047
+2826.795624
+1695.012537
+1818.387679
+1960.736788
+4969.873640
+2885.473271
+2715.516065
+4992.096554
+1563.022393
+4889.176618
+4096.873930
+3604.577368
+3659.040858
+4291.238982
+2202.411860
+1135.873397
+2413.881107
+2578.911495
+1284.684786
+2163.001040
+1413.761207
+1877.795782
+3099.394941
+2639.167009
+2573.425927
+3404.981057
+1601.464642
+2479.664695
+3545.475003
+3180.052515
+2182.979157
+1982.821475
+831.324733
+3860.603709
+4516.326162
+3530.434817
+1687.834856
+2107.914135
+2578.590119
+1783.870651
+1907.666113
+1737.099594
+3964.585476
+3587.593204
+817.531230
+1986.796542
+2699.971204
+1649.905603
+2545.091354
+3058.516961
+3590.585468
+1838.340556
+2465.092696
+3801.604135
+3084.851536
+2620.431739
+3806.363356
+4077.368024
+1073.996276
+2356.437990
+2236.249427
+2322.215429
+2233.763192
+4433.270350
+4941.170307
+2267.065504
+2862.129015
+620.558166
+2119.622844
+1403.853580
+2262.450331
+3729.942895
+5013.893896
+3280.476337
+818.299418
+1923.809567
+3743.079214
+3581.285803
+576.806889
+2852.192139
+2080.798765
+1345.228791
+2331.859237
+2853.426712
+3851.641598
+3491.775193
+1305.909453
+1146.209023
+3102.700920
+2142.574619
+1781.360154
+4258.263966
+2223.045321
+3114.275518
+2107.450474
+1521.081030
+2180.464973
+880.304315
+1707.470644
+4745.776438
+802.468029
+1750.595970
+3408.288133
+1875.421153
+2712.076879
+2785.301958
+2500.425764
+1705.419816
+1614.674193
+2776.297354
+2346.166448
+2249.421926
+1082.888787
+2765.551392
+2028.778265
+3451.853125
+2144.355148
+2386.690177
+2130.956710
+4269.860888
+3700.144186
+4228.841685
+1843.984002
+606.775442
+3615.247986
+2238.164203
+2082.354197
+2396.428175
+4820.666759
+3366.684422
+4923.284879
+4812.032834
+1814.182047
+2112.514260
+1273.951579
+3598.047665
+2840.478041
+783.799719
+1637.704338
+3234.833381
+1193.934200
+1740.150496
+2426.361473
+2715.625619
+2544.185626
+3069.838432
+1633.115581
+6153.284651
+658.311429
+2299.989022
+1396.540010
+3151.168831
+643.057467
+2337.008344
+912.211804
+1185.608704
+4977.725183
+2289.228254
+3229.446083
+2174.918504
+3583.061540
+2876.990963
+1263.911983
+2925.901570
+817.380496
+3262.868370
+2164.068622
+3736.315565
+3038.621398
+2875.401363
+2876.020341
+2055.987476
+2158.482916
+3157.448495
+1554.518012
+569.020211
+3721.556260
+2255.686259
+2212.027916
+2398.382684
+2482.747269
+1749.418618
+254.104563
+1294.272238
+1862.386775
+2704.766164
+2319.212474
+2979.375606
+2419.331209
+2956.759544
+810.958345
+2345.067909
+4981.403015
+2614.523092
+1637.377324
+1531.890743
+2819.907623
+3200.071562
+3975.986167
+2874.685722
+3210.500273
+3678.424119
+1602.395862
+1684.262301
+1848.901228
+1368.518451
+3622.792983
+2458.114623
+4427.915311
+3351.940334
+1896.921256
+3790.962675
+493.015165
+2297.584166
+2954.987310
+1499.745312
+3448.537661
+4044.605543
+1237.315845
+1317.350324
+1773.909383
+2706.100331
+1991.785694
+1515.630397
+4124.613679
+3778.685221
+1815.464472
+3273.456888
+1567.552073
+3091.248939
+3514.781359
+2545.766780
+517.811380
+2465.053752
+2542.460029
+3145.902096
+1060.343989
+2426.988463
+3681.202249
+3008.534028
+2107.155429
+3162.600512
+1924.170860
+1482.253942
+1746.214406
+1896.815160
+1687.334659
+1834.156277
+3909.758305
+2339.420441
+3089.974757
+4461.009079
+1209.451322
+3298.562566
+1640.147859
+1512.711473
+3435.551193
+3202.430483
+3430.516725
+2350.258496
+2166.813790
+4292.534915
+1203.845817
+2123.831561
+2124.826346
+1929.224132
+2607.554697
+2349.311708
+2607.141730
+1136.946184
+2303.562241
+2511.299464
+2659.767941
+3344.997309
+2628.131656
+1038.269353
+2314.795887
+2736.719112
+147.832669
+2118.874701
+710.345317
+1921.780294
+3637.515361
+2686.655542
+3524.768361
+1843.861980
+2115.486587
+2619.194724
+2119.719557
+4015.795438
+3440.631192
+2286.010171
+3469.711227
+2594.943737
+2334.288971
+1525.890642
+3518.437437
+1488.121299
+2945.832310
+2066.114106
+3199.011722
+1933.105274
+2197.157254
+2482.577995
+1497.608928
+2062.932137
+2504.199872
+2203.872841
+3014.312359
+3993.769022
+1828.850322
+1613.359151
+1816.961062
+3601.055956
+1321.223723
+3846.043942
+1089.902748
+1768.247791
+1822.710687
+1198.494472
+4177.257234
+2139.396176
+3882.902265
+2501.953936
+2919.294435
+1682.458469
+3706.684637
+2516.615882
+3048.370384
+1890.703374
+2773.911318
+2649.438714
+4541.839055
+360.016362
+2289.586426
+2812.253545
+1275.372201
+3889.447519
+2054.282356
+3285.249001
+3713.189465
+1320.155909
+2151.433243
+2535.600619
+391.680873
+3238.632891
+3008.176524
+3886.350087
+5009.228284
+3558.970076
+3748.515173
+1979.295266
+2144.346754
+2047.864009
+944.670247
+1672.983264
+1616.079670
+2111.405219
+1866.999598
+2254.860750
+3851.917574
+2788.067072
+1604.960202
+2031.051821
+1905.740211
+4163.914504
+2846.934316
+2201.620880
+1702.608146
+1696.044811
+3914.692581
+2109.210042
+3410.046334
+1671.225449
+2236.417671
+1686.832386
+2484.485057
+2069.630523
+1240.477479
+2502.491558
+3673.164576
+3435.663691
+1902.162059
+3669.179200
+3653.286739
+2155.173427
+4692.567954
+2673.803190
+1398.277154
+2820.941066
+1571.207418
+3776.652751
+1655.352153
+3056.903989
+1595.204767
+3915.201655
+2844.556556
+1001.960672
+1698.255428
+2682.792854
+821.922099
+1789.963477
+3427.551458
+2345.611860
+1930.533929
+3002.351245
+2719.256424
+2207.671737
+2643.644265
+554.078994
+2492.015951
+2615.090821
+1334.331106
+3181.501061
+1996.690825
+4458.538326
+2167.617817
+3075.285027
+1762.908180
+2138.987728
+3739.408777
+3629.366611
+3455.475221
+3287.874693
+1805.774349
+2668.699871
+4435.266396
+3280.501791
+1323.484180
+2380.445547
+1670.936863
+2195.445627
+3040.913514
+1258.095485
+4096.294911
+4218.783711
+1990.211233
+1421.991737
+3245.173801
+2011.226491
+2967.268946
+3794.876414
+3081.503205
+2518.966852
+2939.758664
+2316.517429
+1738.834811
+1765.606836
+2506.936976
+5433.794807
+2363.808791
+2492.505767
+1722.639254
+3073.345246
+1933.989336
+1950.396626
+2721.647295
+3075.612459
+1860.650357
+4227.725630
+1992.319628
+2726.458234
+2989.116592
+3178.628635
+2911.604197
+3161.457101
+1962.579998
+2235.813722
+2533.124849
+2526.327275
+4159.445155
+303.471220
+3182.678903
+2313.249554
+3129.138859
+2198.583976
+2075.972302
+2542.363467
+4239.924999
+2534.724837
+2666.054857
+1082.972010
+2980.997149
+870.825937
+2696.765933
+2373.696590
+2943.277085
+2700.145366
+2213.915762
+1834.170248
+3242.775200
+3137.159384
+1270.726121
+5093.728104
+2684.832211
+2228.107044
+2448.524147
+5004.353904
+1769.661832
+3951.319147
+2057.744882
+3879.537730
+2704.177879
+3674.447986
+1692.017804
+4174.847542
+4257.791446
+2606.857399
+2472.137537
+2096.894847
+3502.050685
+2504.400128
+2865.708377
+914.126564
+2804.134893
+2699.214608
+4686.758795
+4686.942073
+3173.344765
+1407.400618
+4349.207744
+2155.688521
+1530.370707
+3395.151248
+2223.257183
+4286.041764
+474.100102
+2337.829014
+2639.456194
+3414.032220
+4807.278024
+3657.526213
+3002.678971
+4502.083073
+683.959109
+2021.587681
+1751.225999
+2450.161831
+2335.517287
+3067.918676
+1624.411817
+1489.572338
+3758.972067
+2942.083955
+1595.202182
+1317.626132
+1861.763277
+3553.806691
+1993.638006
+4792.368517
+3945.975545
+2936.599734
+3509.323012
+5126.014826
+1236.878480
+1709.304244
+2662.142183
+808.729637
+2726.464377
+2994.913020
+2546.762356
+2414.156582
+5435.426754
+2009.296208
+1385.925954
+4594.988575
+2809.181553
+1972.238576
+2341.973740
+2820.058244
+2084.908871
+1688.069608
+3806.277841
+4793.156997
+1786.081885
+2659.715398
+2645.846745
+1657.836919
+3294.336656
+1791.172940
+1907.725282
+4884.559755
+1988.868145
+3111.221304
+6190.895896
+5304.878132
+1212.648290
+4600.659518
+1408.862440
+2449.501684
+2324.251923
+3396.830287
+1723.683266
+1531.695711
+3938.921680
+2045.240389
+1618.953288
+2404.927546
+1962.926642
+1195.780394
+2173.760221
+3265.649706
+3324.252999
+884.187445
+2090.365279
+2615.777227
+3989.478663
+4974.504397
+6209.998390
+2326.836479
+5299.534697
+1900.939242
+3326.333717
+2755.936501
+3769.108648
+2105.265898
+745.825298
+3023.591242
+3318.791648
+3246.206093
+555.778002
+3276.493705
+2296.743347
+2364.701461
+4114.357787
+1687.767608
+1494.139133
+1999.736670
+1540.973961
+1815.125409
+3109.940192
+1467.707822
+2052.446467
+1588.278707
+2878.999566
+1959.484690
+2234.726381
+2225.105840
+1126.575896
+2043.256102
+3075.617336
+1232.506643
+1251.627241
+1452.596727
+2545.470094
+2571.776429
+1221.946807
+5065.503529
+2851.602795
+3201.381264
+4072.936533
+2886.131147
+2425.108864
+1290.411708
+4068.404110
+1343.956054
+1275.959198
+1804.770068
+2203.505276
+4930.150505
+1928.123570
+2151.180839
+1887.178714
+1803.387715
+1005.045739
+3896.807540
+2794.380880
+2750.544310
+1903.513593
+2560.683698
+2879.553264
+1650.971911
+1930.507446
+2526.429298
+3086.208029
+1900.202095
+3185.989014
+937.775360
+1627.940033
+PS C:\Users\TEST\desktop>
